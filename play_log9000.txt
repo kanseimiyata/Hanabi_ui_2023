@@ -1,0 +1,4939 @@
+12_04 team_1time1
+player1 tell number 5
+player2 tell number 3
+player1 tell color B
+player2 tell color B
+player1 played B2
+player2 played B1
+player1 discarded Y2
+player2 discarded R3
+
+12_04 team_1 time_2
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell number 3
+player2 discarded G3
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 tell color G
+player2 discarded B1
+player1 tell number 5
+player2 discarded W5
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 tell number 2
+player1 played W2
+player2 discarded R4
+player1 tell color W
+player2 played W3
+player1 discarded B3
+player2 tell color Y
+player1 played Y1
+player2 discarded W1
+player1 tell color B
+player2 played B4
+player1 discarded W3
+player2 tell color W
+player1 played W4
+player2 discarded Y5
+player1 tell number 5
+player2 played B5
+
+
+12_04 team_1 time_4
+player1 tell number 2
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 played W1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell number 1
+player1 played R1
+player2 discarded B5
+player1 discarded G4
+player2 tell number 5
+player1 tell number 2
+player2 played R2
+player1 discarded G5
+player2 tell number 3
+player1 tell number 3
+player2 tell color R
+player1 played R3
+player2 discarded R5
+player1 discarded R1
+player2 discarded G4
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 discarded Y4
+player1 tell number 3
+player2 played Y3
+player1 tell number 4
+player2 played Y4
+player1 played Y5
+player2 tell number 4
+player1 played R4
+player2 discarded Y2
+player1 tell number 2
+player2 played W2
+player1 discarded B1
+player2 discarded R1
+player1 tell number 2
+player2 discarded B3
+player1 tell color G
+player2 played G2
+player1 tell color B
+player2 played B2
+player1 discarded B1
+player2 played G3
+player1 tell number 1
+player2 discarded G1
+player1 tell color W
+player2 played W3
+player1 discarded W1
+player2 tell color B
+player1 played B3
+player2 discarded W1
+player1 tell color B
+player2 played B4
+player1 discarded B2
+player2 discarded G2
+player1 tell number 4
+player2 discarded R2
+player1 tell color W
+player2 played W4
+player1 played W5
+player2 discarded W3
+player1 discarded R4
+player2 discarded B4
+
+12_04 team_2 time_2
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 2
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 tell color Y
+player2 tell color B
+player1 played B1
+player2 discarded Y2
+player1 discarded W1
+player2 discarded B4
+player1 discarded Y3
+player2 tell number 2
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell color G
+player1 played G2
+player2 tell number 3
+player1 played R3
+player2 tell number 1
+player1 discarded B1
+player2 tell number 3
+player1 played G3
+player2 discarded W4
+player1 discarded R1
+player2 tell number 2
+player1 played W2
+player2 discarded G4
+player1 tell number 3
+player2 played W3
+player1 tell number 1
+player2 discarded R1
+player1 discarded W2
+
+12_04 team_3 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 tell color B
+player1 played B2
+player2 discarded W5
+
+12_04 team_0 time_1
+player1 tell number 2
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 played W1
+
+12_05 team_0 time_1
+
+12_05 team_0 time_1
+player1 tell number 2
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 tell number 1
+player1 tell number 3
+player2 tell color R
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 discarded G4
+player1 tell color R
+player2 played R2
+player1 discarded B3
+player2 discarded B5
+player1 discarded Y4
+player2 discarded R5
+player1 discarded G5
+player2 tell number 1
+player1 discarded B1
+player2 tell number 1
+player1 discarded B1
+player2 tell color G
+player1 played G1
+player2 tell number 3
+player1 played R3
+player2 tell color Y
+player1 played Y3
+
+12_05 team_0 time_2
+player1 tell number 1
+player2 played B1
+player1 tell color Y
+player2 discarded B5
+player1 tell number 2
+player2 discarded W5
+
+12_05 team_0 time_0
+
+12_05 team_0 time_3
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell number 3
+player2 discarded W3
+player1 tell number 2
+player2 played B2
+
+12_05 team_0 time_4
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 2
+player2 tell color R
+player1 tell color Y
+player2 tell number 2
+player1 tell number 4
+player2 discarded B4
+player1 tell number 1
+player2 played B1
+player1 tell color G
+player2 discarded G5
+player1 played R2
+player2 discarded G4
+player1 discarded Y3
+player2 tell number 2
+player1 played B2
+player2 tell number 1
+player1 discarded W1
+player2 tell number 3
+player1 played R3
+player2 tell color G
+player1 played G1
+player2 discarded W3
+player1 played G2
+player2 tell number 2
+player1 played W2
+player2 discarded G3
+player1 discarded B4
+player2 discarded W2
+player1 discarded R1
+player2 tell number 1
+player1 discarded Y5
+player2 tell color R
+player1 played R4
+player2 discarded G1
+player1 tell number 3
+player2 played G3
+player1 tell number 3
+player2 played W3
+player1 discarded G1
+player2 played W4
+player1 discarded B1
+player2 tell color W
+player1 played W5
+player2 tell number 2
+player1 discarded G2
+player2 tell number 4
+player1 discarded R2
+player2 tell color B
+player1 played B5
+player2 tell number 1
+player1 discarded B1
+player2 tell number 5
+player1 played R5
+player2 tell number 3
+player1 played B3
+player2 tell color Y
+player1 played Y1
+player2 played Y2
+player1 tell number 3
+player2 discarded Y2
+player1 tell color Y
+player2 played Y3
+player1 played Y4
+player2 discarded R3
+player1 discarded Y4
+player2 tell color G
+
+12_05 team_0 time_0
+
+12_05 team_0 time_0
+player1 tell number 1
+
+12_05 team_0 time_0
+player1 tell number 1
+player2 tell number 4
+player1 tell color R
+player2 discarded R5
+
+12_05 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell color W
+player2 played W1
+player1 tell number 1
+player2 tell number 2
+player1 tell color Y
+player2 tell color W
+player1 discarded R3
+player2 discarded W5
+
+12_05 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 5
+player2 played W1
+player1 tell number 1
+player2 tell number 2
+player1 played W2
+player2 played Y1
+player1 played B2
+player2 tell number 4
+player1 tell number 1
+player2 played R1
+player1 tell number 2
+player2 played Y2
+player1 played R3
+player2 tell color G
+player1 played G2
+player2 discarded Y5
+player1 discarded Y4
+player2 tell color G
+player1 played G3
+player2 tell number 2
+player1 discarded B3
+player2 tell number 2
+player1 played R2
+player2 discarded B4
+player1 tell color B
+player2 played B1
+player1 discarded G4
+player2 tell number 1
+player1 discarded B1
+player2 tell number 1
+player1 discarded W1
+player2 tell color W
+player1 played W3
+player2 discarded Y1
+player1 played W4
+player2 tell number 1
+player1 discarded G1
+player2 tell number 3
+player1 played Y3
+player2 discarded W1
+player1 tell color W
+player2 played W5
+player1 tell color B
+player2 played B2
+player1 discarded R1
+player2 tell number 2
+player1 discarded R2
+player2 tell color Y
+player1 played Y4
+player2 discarded R3
+player1 discarded G2
+player2 tell color R
+player1 discarded R1
+player2 tell color W
+player1 discarded R4
+player2 tell color W
+player1 discarded W4
+player2 tell number 1
+player1 discarded W2
+player2 tell color G
+player1 discarded R4
+player2 tell color B
+player1 played G4
+player2 tell number 3
+player1 played B3
+player2 discarded Y2
+player1 played B5
+
+12_05 team_1 time_1
+player1 tell number 1
+player2 tell number 2
+player1 tell number 5
+player2 tell number 5
+player1 tell color W
+player2 played B1
+player1 discarded B2
+player2 tell number 3
+player1 discarded Y2
+player2 discarded W2
+player1 discarded R4
+player2 tell color B
+player1 discarded B3
+player2 tell number 1
+player1 played B1
+player2 tell number 4
+player1 discarded B1
+player2 tell color W
+player1 discarded Y3
+player2 tell number 4
+player1 discarded W4
+player2 tell color G
+player1 discarded W3
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 tell number 2
+player2 tell number 2
+player1 played G1
+player2 played Y2
+player1 played G2
+player2 tell number 1
+player1 discarded G4
+player2 tell color R
+player1 played R1
+player2 discarded Y5
+player1 discarded W1
+player2 tell number 1
+player1 discarded R1
+player2 tell number 2
+player1 played R2
+player2 tell color Y
+player1 discarded Y1
+player2 tell number 4
+player1 discarded G2
+player2 played R3
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 3
+player2 discarded W1
+player1 played R4
+player2 tell number 3
+player1 played G3
+player2 discarded B4
+player1 tell color W
+player2 played W1
+player1 discarded Y4
+player2 tell color G
+player1 discarded G3
+player2 tell color B
+player1 discarded Y4
+player2 played Y3
+player1 played R3
+player2 tell color W
+player1 discarded G1
+player2 tell color R
+player1 discarded R1
+player2 tell number 2
+player1 played B2
+player2 played B3
+player1 played B4
+player2 played B5
+player1 played W2
+
+12_05 team_1 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 played R1
+player1 tell number 3
+player2 tell number 5
+player1 tell color G
+player2 discarded G3
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 discarded R1
+player2 tell number 5
+player1 discarded R4
+player2 tell number 1
+player1 played W1
+player2 tell number 2
+player1 played W2
+player2 discarded B1
+player1 tell color W
+player2 discarded W1
+player1 tell number 5
+player2 discarded G4
+player1 tell number 1
+player2 played Y1
+player1 discarded R4
+player2 played W3
+player1 tell color R
+player2 discarded R5
+player1 tell number 4
+player2 played W4
+player1 discarded B4
+player2 tell color W
+player1 discarded W3
+player2 tell number 4
+player1 played W5
+player2 tell number 2
+player1 discarded B1
+player2 tell color B
+player1 discarded B3
+player2 tell color G
+player1 played B4
+player2 discarded B5
+player1 played Y2
+player2 discarded G1
+player1 tell number 2
+player2 discarded R2
+player1 tell color R
+player2 tell number 1
+player1 played G1
+player2 played R3
+player1 discarded R1
+player2 tell number 3
+player1 discarded Y1
+player2 tell color Y
+player1 played Y3
+player2 discarded Y3
+player1 tell color G
+player2 discarded Y1
+player1 tell color Y
+player2 played Y4
+player1 discarded G1
+player2 played Y5
+player1 tell number 2
+player2 played G2
+player1 discarded W1
+player2 played G3
+player1 played W2
+
+12_05 team_1 time_3
+player1 tell number 1
+player2 played R1
+player1 tell number 4
+player2 played W1
+player1 discarded G2
+player2 tell number 1
+player1 played B1
+player2 tell color R
+player1 played W1
+player2 tell number 5
+player1 played R2
+player2 discarded Y2
+player1 discarded Y3
+player2 tell number 2
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell color R
+player1 played R3
+player2 discarded R1
+player1 tell color B
+player2 discarded Y2
+player1 tell number 1
+player2 discarded B1
+player1 tell color W
+player2 played W2
+player1 tell number 5
+player2 tell number 3
+player1 played W3
+player2 played W4
+player1 tell color W
+player2 played W5
+player1 tell number 1
+player2 played G1
+player1 played B4
+
+12_05 team_1 time_4
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 tell number 1
+player1 played Y1
+player2 tell color R
+player1 played R1
+player2 tell number 2
+player1 played Y2
+player2 discarded G4
+player1 tell number 2
+player2 played R2
+player1 tell number 5
+player2 tell number 3
+player1 played R3
+player2 discarded W3
+player1 played B3
+player2 discarded G3
+player1 discarded B1
+player2 discarded B5
+player1 tell color G
+player2 played G1
+player1 tell number 3
+player2 played Y3
+player1 tell number 4
+player2 played Y4
+player1 tell number 1
+player2 discarded R1
+player1 tell color W
+player2 played W2
+player1 discarded Y4
+player2 discarded R1
+player1 tell color Y
+player2 played Y5
+player1 tell number 2
+player2 discarded Y2
+player1 tell number 4
+player2 discarded B3
+player1 tell color R
+player2 played R4
+player1 tell color B
+player2 played R5
+player1 tell number 2
+player2 played B2
+player1 discarded G3
+player2 discarded R4
+player1 tell color G
+player2 played G2
+player1 tell number 3
+player2 played W3
+player1 discarded G5
+player2 discarded W1
+player1 tell color R
+player2 played R2
+player1 tell number 1
+player2 discarded G1
+player1 tell number 4
+player2 discarded Y1
+player1 tell color B
+player2 discarded G1
+player1 tell color W
+player2 discarded B4
+player1 tell number 4
+player2 played W4
+player1 discarded B1
+player2 tell number 5
+player1 played W5
+player2 discarded B4
+player1 played B2
+player2 discarded Y1
+
+
+
+12_05 team_2 time_1
+player1 tell number 1
+player2 played R1
+player1 tell color B
+player2 played B1
+player1 tell number 3
+player2 tell color R
+player1 tell color G
+player2 discarded G3
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 discarded B3
+player2 tell number 1
+player1 discarded R1
+player2 tell number 1
+player1 played W1
+player2 tell number 2
+player1 played W2
+player2 played W3
+player1 discarded W3
+player2 discarded B1
+player1 tell color Y
+player2 played Y1
+player1 discarded Y5
+player2 tell number 4
+player1 played B4
+player2 tell color B
+player1 played B5
+player2 tell color W
+player1 played W4
+player2 discarded R5
+player1 played W5
+player2 tell number 1
+player1 played B1
+player2 tell color Y
+player1 played Y2
+player2 discarded Y3
+player1 tell color G
+player2 discarded B4
+player1 tell number 1
+player2 played G1
+player1 discarded G1
+player2 discarded R1
+player1 tell color R
+player2 tell number 3
+player1 played Y3
+player2 discarded W1
+player1 discarded R4
+player2 tell color G
+player1 tell number 3
+player2 played R3
+player1 played R4
+player2 discarded R2
+player1 discarded Y1
+player2 tell number 2
+player1 played G2
+player2 played G3
+player1 discarded G2
+player2 played G4
+player1 played G5
+player2 tell number 4
+player1 tell number 2
+player2 tell color Y
+player1 played Y4
+player2 discarded Y2
+player1 discarded Y4
+
+12_05 team_2 time_2
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played R1
+player1 tell color W
+player2 tell number 2
+player1 tell color Y
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 played W1
+player2 discarded B4
+player1 tell number 2
+player2 discarded Y2
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell color B
+player1 discarded G5
+player2 tell number 1
+player1 played G1
+player2 discarded Y4
+player1 played G2
+player2 tell number 2
+player1 played B2
+player2 discarded R1
+player1 tell number 2
+player2 discarded W2
+player1 discarded B1
+player2 tell number 2
+player1 played W2
+player2 tell number 3
+player1 discarded G1
+player2 tell color Y
+player1 played R3
+player2 discarded W5
+player1 tell color R
+player2 played R4
+player1 discarded Y5
+player2 tell color G
+player1 played G3
+player2 played G4
+player1 discarded G1
+player2 tell color W
+player1 discarded G3
+player2 tell number 3
+player1 played W3
+player2 discarded B5
+player1 discarded G2
+player2 tell number 4
+player1 discarded R4
+player2 played W4
+player1 tell number 1
+player2 played Y1
+player1 tell number 5
+player2 played Y2
+player1 played Y3
+player2 played R5
+player1 tell color B
+player2 played B3
+player1 played B4
+player2 discarded R3
+player1 discarded B1
+player2 tell color Y
+player1 played Y4
+player2 discarded W3
+player1 discarded W1
+
+12_05 team_2 time_4
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 tell number 2
+player2 discarded R3
+player1 tell color W
+player2 discarded R4
+player1 tell number 5
+player2 discarded B5
+player1 tell color B
+player2 played B3
+player1 discarded B1
+player2 tell color W
+player1 played W4
+player2 discarded Y5
+player1 tell number 4
+player2 played R4
+player1 discarded Y2
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 played G1
+player2 tell number 2
+player1 played G2
+player2 tell number 1
+player1 played R1
+player2 discarded Y2
+player1 discarded R2
+player2 tell number 1
+player1 played W1
+player2 played W2
+player1 tell number 1
+player2 discarded Y1
+player1 played W3
+player2 discarded R1
+player1 tell color B
+player2 discarded B1
+player1 tell number 3
+player2 played G3
+player1 tell number 4
+player2 played B4
+player1 discarded G2
+player2 discarded G4
+player1 tell color W
+player2 played W4
+player1 tell number 1
+player2 played W5
+player1 discarded B4
+player2 discarded Y1
+player1 tell color R
+player2 played R2
+player1 tell color Y
+player2 discarded G3
+player1 tell color R
+player2 played R3
+player1 discarded Y3
+player2 discarded B3
+player1 tell number 1
+player2 discarded R1
+player1 tell number 4
+player2 discarded W1
+player1 tell color G
+player2 discarded Y4
+player1 tell number 4
+player2 played G4
+player1 played G5
+player2 discarded Y4
+
+12_05 team_2 time_3
+player1 tell number 3
+player2 tell number 1
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell number 5
+player1 tell number 2
+player2 played R2
+player1 discarded W1
+player2 tell number 1
+player1 played Y1
+player2 tell color R
+player1 played R3
+player2 tell number 5
+player1 tell number 2
+player2 played Y2
+player1 discarded B3
+player2 discarded Y5
+player1 discarded G5
+player2 tell number 4
+player1 played G4
+player2 tell color Y
+player1 discarded Y4
+player2 discarded B5
+player1 tell color G
+player2 played G1
+player1 tell color Y
+player2 played Y3
+player1 played Y4
+player2 tell number 1
+player1 discarded B1
+player2 tell color R
+player1 discarded R1
+player2 tell number 4
+player1 played R4
+player2 discarded Y2
+player1 tell number 3
+player2 discarded B3
+player1 played R5
+player2 tell color R
+player1 tell number 2
+player2 played B2
+player1 discarded R4
+player2 tell color W
+player1 discarded B1
+player2 tell number 2
+player1 discarded G3
+player2 tell number 1
+player1 played W1
+player2 discarded R1
+player1 tell color G
+player2 discarded G2
+player1 played W2
+player2 played G2
+player1 discarded G1
+player2 tell number 1
+player1 discarded G1
+player2 played G3
+player1 tell color W
+player2 played W3
+player1 discarded W1
+player2 played W3
+player1 tell number 4
+player2 played G4
+player1 discarded Y1
+player2 tell color W
+player1 played W4
+player2 discarded W2
+player1 played W5
+
+
+12_06 team_3 time_1
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 4
+player2 discarded B4
+player1 tell number 1
+player2 played B1
+player1 tell color Y
+player2 tell number 2
+player1 played G2
+player2 tell color R
+player1 played R2
+player2 tell number 4
+player1 discarded B4
+player2 discarded G4
+player1 tell number 2
+player2 discarded B2
+player1 tell number 1
+player2 played G1
+player1 discarded Y4
+player2 tell color R
+player1 tell number 3
+player2 tell number 1
+player1 discarded W1
+player2 tell color B
+player1 discarded R1
+player2 discarded Y2
+player1 tell number 2
+player2 played W2
+player1 tell color R
+player2 played R3
+player1 discarded R1
+player2 tell number 3
+player1 discarded W3
+player2 discarded W4
+player1 tell number 5
+player2 discarded Y5
+player1 tell number 4
+player2 discarded G5
+player1 tell color R
+player2 played R4
+player1 discarded B1
+player2 discarded W5
+player1 discarded W3
+player2 tell color G
+player1 played G1
+player2 tell number 1
+player1 discarded G1
+player2 tell number 2
+player1 played G2
+player2 tell color R
+player1 discarded Y3
+player2 tell number 4
+player1 discarded R4
+player2 tell number 2
+player1 discarded R2
+player2 tell color Y
+player1 tell color G
+player2 played G3
+player1 discarded G3
+player2 tell number 1
+player1 played Y1
+player2 played Y2
+player1 discarded B1
+player2 tell number 1
+player1 discarded Y1
+player2 tell number 1
+player1 discarded W1
+player2 tell number 3
+player1 discarded B3
+player2 tell number 4
+player1 played G4
+player2 played B5
+
+12_06 team_3 time_4
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell number 3
+player2 tell color R
+player1 tell color G
+player2 discarded R5
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 tell color W
+player2 discarded G4
+player1 tell number 5
+player2 discarded B1
+player1 tell number 1
+player2 played W1
+player1 discarded B3
+player2 tell number 2
+player1 played W2
+player2 played W3
+player1 discarded W3
+player2 tell color Y
+player1 played Y1
+player2 discarded W5
+player1 tell number 4
+player2 discarded Y5
+player1 tell color B
+player2 played B4
+player1 discarded G5
+player2 tell color G
+player1 played G1
+player2 discarded W4
+player1 tell number 1
+player2 discarded B1
+player1 tell number 2
+player2 played Y2
+player1 discarded R1
+player2 tell number 3
+player1 played Y3
+player2 discarded B5
+player1 tell number 1
+player2 discarded Y1
+player1 tell color R
+player2 discarded R4
+player1 tell number 3
+player2 discarded R2
+player1 tell color R
+player2 played R3
+player1 discarded R4
+player2 tell number 2
+player1 played G2
+player2 played G3
+player1 discarded G1
+player2 discarded Y3
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 4
+player2 discarded G3
+player1 tell number 2
+player2 played G4
+player1 tell number 4
+player2 played Y4
+player1 discarded R1
+player2 discarded B2
+player1 tell color W
+player2 played W4
+
+12_06 team_3 time_2
+player1 tell number 2
+player2 tell number 1
+player1 played W1
+player2 tell number 3
+player1 played B1
+player2 tell number 1
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell color R
+player1 played R1
+player2 tell number 5
+player1 tell color R
+player2 played R2
+player1 played R3
+player2 discarded B5
+player1 discarded G5
+player2 discarded G4
+player1 discarded W5
+player2 discarded W3
+player1 discarded G4
+player2 tell color G
+player1 played G1
+player2 tell number 1
+player1 tell number 1
+player2 discarded B1
+player1 discarded R1
+player2 discarded B1
+player1 tell color W
+player2 played W2
+player1 tell number 5
+player2 tell number 3
+player1 played B3
+player2 tell color Y
+player1 played Y3
+player2 discarded Y4
+player1 tell number 4
+player2 played R4
+player1 tell color R
+player2 played R5
+player1 tell color B
+player2 played B2
+player1 tell number 1
+player2 discarded W1
+player1 tell color G
+player2 discarded G3
+player1 tell number 2
+player2 played G2
+player1 played Y5
+player2 discarded Y2
+player1 tell number 3
+player2 played W3
+player1 played Y4
+player2 discarded R4
+player1 tell number 1
+player2 discarded G1
+player1 tell color R
+player2 discarded R2
+player1 tell color Y
+player2 played Y1
+
+12_06 team_3 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 played Y3
+player2 discarded B5
+player1 tell color W
+player2 discarded W2
+player1 tell number 5
+player2 tell number 2
+player1 tell color B
+player2 played B3
+player1 discarded W3
+player2 discarded B1
+player1 discarded G5
+player2 discarded G2
+player1 discarded B1
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 played G1
+player2 tell number 1
+player1 played R1
+player2 tell number 2
+player1 played Y2
+player2 tell number 2
+player1 played R2
+player2 tell number 3
+player1 played Y3
+player2 tell number 1
+player1 played W1
+player2 discarded Y2
+player1 discarded R1
+player2 discarded G4
+player1 tell number 2
+player2 played G2
+player1 tell number 3
+player2 played R3
+player1 tell number 4
+player2 discarded G3
+player1 tell number 1
+player2 discarded Y1
+player1 tell color B
+player2 played B4
+player1 discarded W4
+player2 discarded Y1
+player1 tell color Y
+player2 played Y4
+player1 tell color B
+player2 discarded W1
+player1 tell number 1
+player2 discarded G1
+player1 discarded W1
+player2 tell number 4
+player1 played R4
+player2 played Y5
+player1 tell number 5
+player2 played R5
+player1 tell number 1
+player2 tell color R
+player1 discarded R3
+player2 discarded B4
+player1 discarded R4
+player2 tell number 3
+player1 played G3
+player2 tell number 4
+player1 tell color R
+player2 discarded R2
+player1 tell color W
+player2 played W2
+
+
+12_07 team_4 time_4
+player1 tell number 1
+player2 played R1
+player1 tell number 1
+player2 played W1
+player1 tell number 2
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 discarded B1
+player2 discarded B4
+player1 tell number 4
+player2 discarded Y2
+player1 discarded B4
+player2 tell number 2
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell color G
+player1 discarded G5
+player2 tell number 3
+player1 played G2
+player2 tell color B
+player1 discarded Y3
+player2 tell number 1
+player1 played B1
+player2 tell number 2
+player1 discarded W2
+player2 tell color R
+player1 discarded R1
+player2 tell number 2
+player1 played R3
+player2 discarded R1
+player1 discarded W3
+player2 tell color W
+player1 played W2
+player2 tell number 4
+player1 played R4
+player2 discarded G1
+player1 discarded G3
+player2 tell number 3
+player1 discarded W3
+player2 discarded G3
+player1 tell number 4
+player2 discarded Y2
+player1 tell number 4
+player2 discarded R4
+player1 tell number 4
+player2 discarded G2
+player1 discarded G1
+player2 tell number 5
+player1 discarded B5
+player2 tell color Y
+player1 discarded Y5
+player2 tell number 1
+player1 tell number 4
+player2 tell color Y
+player1 played Y1
+player2 tell color R
+player1 played R5
+player2 discarded R2
+player1 tell number 1
+player2 discarded Y1
+player1 discarded B1
+player2 discarded W4
+player1 discarded W5
+player2 tell number 3
+player1 discarded Y4
+player2 tell color B
+player1 discarded B3
+player2 tell number 2
+player1 played B2
+player2 tell number 4
+
+12_07 team_4 time_1
+player1 tell number 5
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 played W1
+player2 tell color R
+player1 discarded R3
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell number 5
+player1 tell number 2
+player2 played R2
+player1 discarded B3
+player2 discarded B5
+player1 discarded Y4
+player2 tell number 4
+player1 discarded G4
+player2 tell number 4
+player1 discarded B1
+player2 discarded G3
+player1 tell color G
+player2 played G4
+player1 tell number 1
+player2 discarded R1
+player1 tell number 3
+player2 played G1
+player1 tell color Y
+player2 played Y3
+player1 discarded B1
+player2 tell color Y
+player1 played Y4
+player2 discarded R1
+player1 tell color W
+player2 discarded W3
+player1 tell number 5
+player2 played Y5
+player1 discarded R4
+player2 tell number 2
+player1 played G2
+player2 tell number 3
+player1 played G3
+player2 discarded Y2
+player1 tell number 2
+player2 played W2
+player1 tell color B
+player2 played B2
+player1 discarded B4
+player2 played B3
+player1 discarded W1
+player2 tell number 3
+player1 played W3
+player2 tell color G
+player1 played G1
+player2 discarded W1
+player1 tell number 4
+player2 played B4
+player1 discarded Y1
+player2 played R4
+
+12_07 team_4 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 discarded W5
+player1 discarded W3
+player2 tell number 2
+player1 discarded Y3
+player2 discarded B5
+player1 tell number 3
+player2 tell color B
+player1 played B2
+player2 discarded Y2
+player1 tell color B
+player2 played B3
+player1 discarded Y5
+player2 tell color Y
+player1 tell number 1
+player2 played B1
+player1 discarded R4
+player2 tell number 1
+player1 played B1
+player2 tell color Y
+player1 played Y1
+player2 tell number 1
+player1 played G1
+player2 tell number 3
+player1 discarded Y3
+player2 tell color R
+player1 played R1
+player2 tell number 2
+player1 played Y2
+player2 tell color W
+player1 played W1
+player2 discarded G4
+player1 played R2
+player2 discarded Y1
+player1 tell number 2
+player2 discarded R3
+player1 tell color G
+player2 played G2
+player1 tell number 3
+player2 played G3
+player1 discarded W1
+player2 discarded G2
+player1 tell number 4
+player2 discarded W2
+player1 tell color B
+player2 played B4
+player1 tell number 1
+player2 discarded Y1
+player1 discarded R4
+player2 discarded B4
+player1 tell number 1
+player2 discarded W4
+player1 discarded B3
+player2 tell number 3
+player1 played R3
+player2 discarded W1
+player1 discarded G1
+player2 tell color R
+player1 discarded R1
+player2 tell number 5
+player1 discarded R5
+player2 tell color G
+player1 played G4
+player2 tell number 5
+player1 played G5
+player2 tell color W
+player1 played W4
+
+12_07 team_4 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 1
+player2 played R1
+player1 tell number 3
+player2 discarded R5
+player1 tell color B
+player2 tell number 5
+player1 tell number 2
+player2 played B2
+player1 discarded R1
+player2 played B3
+player1 discarded R2
+player2 tell number 5
+player1 discarded B3
+player2 tell number 1
+player1 played W1
+player2 tell number 2
+player1 played W2
+player2 tell number 3
+player1 played W3
+player2 tell color W
+player1 played W1
+player2 tell number 5
+player1 discarded Y5
+player2 tell number 1
+player1 played Y1
+player2 discarded B1
+player1 tell color W
+player2 discarded W3
+player1 tell number 4
+player2 discarded B5
+player1 tell color B
+player2 played B4
+player1 discarded Y3
+player2 tell color R
+player1 discarded R4
+player2 discarded W4
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 discarded G3
+player1 tell number 2
+player2 played Y2
+player1 discarded B1
+player2 tell number 2
+player1 played R2
+player2 discarded R1
+player1 tell number 3
+player2 played G3
+player1 discarded Y3
+player2 played R3
+player1 tell number 2
+player2 discarded G4
+player1 played R4
+player2 discarded W2
+player1 tell color G
+player2 discarded G2
+player1 tell number 1
+player2 played G2
+player1 discarded G4
+player2 discarded Y1
+player1 tell color W
+player2 played W4
+player1 tell number 2
+player2 discarded Y2
+player1 tell number 1
+player2 tell color G
+player1 played W5
+player2 discarded Y1
+player1 tell number 1
+
+
+12_08 team_5 time_3
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played R1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color R
+player1 discarded W1
+player2 tell number 2
+player1 played R2
+player2 discarded W4
+player1 discarded W3
+player2 tell number 4
+player1 discarded Y3
+player2 tell number 1
+player1 tell color Y
+player2 tell color G
+player1 played G1
+player2 discarded G4
+player1 played G2
+player2 tell number 1
+player1 tell number 1
+player2 played R1
+player1 discarded B2
+player2 discarded R1
+player1 discarded R3
+player2 tell number 2
+player1 tell color G
+player2 tell color W
+player1 played W2
+player2 discarded G5
+player1 discarded W2
+player2 tell color B
+player1 discarded B1
+player2 tell number 4
+player1 tell number 3
+player2 played G3
+player1 discarded G1
+player2 discarded G1
+player1 discarded Y5
+player2 tell color Y
+player1 tell number 5
+player2 tell color R
+player1 discarded R4
+player2 discarded W5
+player1 tell color W
+player2 discarded B5
+player1 discarded Y3
+player2 tell color R
+player1 tell number 3
+player2 played W3
+player1 tell number 4
+player2 played W4
+player1 discarded Y4
+player2 tell color Y
+player1 discarded Y1
+player2 tell number 3
+player1 discarded G3
+player2 discarded G2
+player1 tell number 1
+player2 played Y1
+player1 discarded R4
+player2 played Y2
+player1 tell number 1
+player2 discarded W1
+player1 tell number 4
+player2 tell color R
+player1 played R3
+player2 discarded Y1
+player1 discarded B3
+player2 discarded B1
+
+12_08 team_5 time_1
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell number 5
+player1 tell number 3
+player2 tell number 2
+player1 tell number 2
+player2 tell color B
+player1 played B2
+player2 discarded Y2
+player1 discarded Y3
+player2 tell color Y
+player1 discarded W3
+player2 tell color B
+player1 tell color R
+player2 tell number 3
+player1 played B3
+player2 discarded R4
+player1 tell color W
+player2 discarded W4
+player1 discarded Y5
+player2 tell color B
+player1 discarded R4
+player2 tell color B
+player1 discarded G5
+player2 tell number 1
+player1 played Y1
+player2 tell color G
+player1 played Y2
+player2 discarded W2
+player1 discarded B1
+player2 tell number 1
+player1 played G1
+player2 tell color R
+player1 played R1
+player2 discarded R3
+player1 discarded B1
+player2 tell number 2
+player1 played R2
+player2 tell number 1
+player1 discarded R1
+player2 tell number 2
+player1 played G2
+player2 discarded W1
+player1 tell color G
+player2 discarded G2
+player1 tell number 3
+player2 played G3
+player1 discarded Y1
+player2 tell number 4
+player1 played G4
+player2 discarded Y1
+player1 tell number 3
+player2 discarded Y4
+player1 tell color Y
+player2 played Y3
+player1 discarded W1
+player2 tell color B
+player1 played B4
+player2 played B5
+player1 tell color R
+player2 discarded W1
+player1 discarded B4
+player2 discarded W5
+player1 tell number 1
+player2 discarded G1
+player1 tell number 3
+player2 played R3
+player1 tell number 2
+player2 discarded B2
+player1 tell number 3
+player2 tell color Y
+player1 played Y4
+player2 discarded W3
+player1 discarded G1
+
+12_08 team_5 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 tell number 5
+player1 tell color R
+player2 played R1
+player1 discarded R1
+player2 tell number 2
+player1 discarded B3
+player2 tell number 2
+player1 played B2
+player2 tell number 2
+player1 played R2
+player2 discarded G3
+player1 tell color W
+player2 tell color G
+player1 tell number 3
+player2 tell number 4
+player1 discarded W2
+player2 tell number 1
+player1 played B1
+player2 discarded B3
+player1 played W1
+player2 tell number 1
+player1 played W1
+player2 discarded R5
+player1 discarded R4
+player2 tell color Y
+player1 tell number 1
+player2 tell number 4
+
+
+12_08 team_5 time_4
+player1 tell number 2
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 tell number 1
+player1 tell number 3
+player2 tell color R
+player1 played R1
+player2 tell color Y
+player1 tell color R
+player2 played R2
+player1 played Y1
+player2 discarded B5
+player1 tell number 3
+player2 discarded G4
+player1 discarded G4
+player2 tell number 2
+player1 played Y2
+player2 tell number 3
+player1 played R3
+player2 discarded R5
+player1 discarded R1
+player2 discarded Y4
+player1 tell color G
+player2 discarded G3
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 discarded W3
+player1 tell number 1
+player2 discarded R1
+player1 tell number 2
+player2 discarded Y2
+player1 tell color R
+player2 played W2
+player1 tell color Y
+player2 discarded B3
+player1 tell color B
+player2 played B3
+player1 discarded B1
+player2 tell color R
+player1 discarded R4
+player2 tell number 2
+player1 played G2
+player2 discarded G3
+player1 tell number 3
+player2 played Y3
+player1 discarded W1
+player2 tell number 4
+player1 played Y4
+player2 discarded Y5
+player1 tell number 2
+player2 played B2
+player1 discarded W1
+player2 discarded B4
+player1 tell color R
+player2 discarded W3
+player1 tell number 4
+player2 played R4
+player1 discarded W5
+player2 discarded G1
+player1 discarded Y1
+player2 tell number 2
+player1 discarded G2
+player2 tell color B
+player1 discarded B2
+player2 tell number 3
+player1 discarded Y3
+player2 tell color W
+player1 discarded W4
+player2 tell number 1
+
+12_08 team_5 time_2
+player1 tell number 1
+player2 played R1
+player1 tell number 3
+player2 tell number 1
+player1 played R1
+player2 played B1
+player1 tell color B
+player2 played B2
+player1 discarded R4
+player2 tell color B
+player1 tell color G
+player2 tell color R
+player1 discarded W2
+player2 tell color B
+player1 discarded R2
+player2 discarded G3
+player1 tell number 1
+player2 tell number 3
+player1 played B3
+player2 played W1
+player1 discarded B3
+player2 discarded G4
+player1 tell number 5
+player2 tell number 5
+player1 discarded W1
+player2 tell number 1
+player1 discarded B1
+player2 tell color Y
+player1 played Y1
+player2 tell color B
+player1 played B4
+player2 tell color B
+player1 played B5
+player2 discarded W3
+player1 tell number 1
+player2 played G1
+player1 tell color B
+player2 discarded B4
+player1 tell color B
+player2 discarded B1
+player1 tell number 2
+player2 played Y2
+player1 discarded Y3
+player2 tell number 1
+player1 discarded G1
+player2 tell number 1
+player1 discarded R1
+player2 tell color R
+player1 tell number 1
+
+
+12_09 team_6 time_3
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell color R
+player1 tell number 3
+player2 discarded B5
+player1 tell number 1
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell color R
+player2 tell number 1
+player1 played R1
+player2 tell number 5
+player1 discarded W5
+player2 played R2
+player1 discarded G5
+player2 discarded Y5
+player1 discarded B1
+player2 tell number 1
+player1 played B1
+player2 discarded B3
+player1 tell number 4
+player2 tell number 4
+player1 discarded Y4
+player2 tell number 1
+player1 played G1
+player2 tell number 3
+player1 played Y3
+player2 tell color Y
+player1 played Y4
+player2 discarded G4
+player1 tell number 1
+player2 discarded B1
+player1 played R3
+player2 discarded R1
+player1 tell color R
+player2 played R4
+player1 tell number 2
+player2 played B2
+player1 discarded Y2
+player2 tell number 2
+player1 played G2
+player2 played W2
+player1 played R5
+player2 tell number 3
+player1 played G3
+player2 discarded B4
+player1 tell color W
+player2 played W3
+player1 discarded W1
+player2 tell number 1
+player1 discarded R1
+player2 tell number 2
+player1 discarded B2
+player2 tell color G
+player1 played G4
+player2 discarded G3
+player1 tell color B
+player2 played B3
+player1 discarded G1
+player2 tell number 4
+player1 played W4
+player2 discarded W3
+player1 tell number 4
+player2 played B4
+player1 discarded W1
+player2 discarded R4
+player1 discarded R2
+
+12_09 team_6 time_1
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 tell number 1
+player1 played R1
+player2 discarded R1
+player1 tell number 2
+player2 played B2
+player1 tell number 5
+player2 tell color B
+player1 tell number 3
+player2 tell number 3
+player1 played B3
+player2 discarded G3
+player1 discarded B3
+player2 discarded B1
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played G4
+player1 discarded W2
+player2 tell number 2
+player1 played R2
+player2 tell number 5
+player1 discarded Y5
+player2 tell color Y
+player1 played Y1
+player2 discarded W3
+player1 discarded G5
+player2 discarded B4
+player1 discarded W5
+player2 tell number 1
+player1 tell color W
+player2 tell color G
+player1 played G1
+player2 played W4
+player1 discarded W1
+player2 tell number 2
+player1 played Y2
+player2 tell number 3
+player1 played Y3
+player2 tell number 1
+player1 discarded G1
+player2 tell number 5
+player1 played B5
+
+12_09 team_6 time_4
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 tell number 2
+player2 discarded R3
+player1 discarded B1
+player2 tell color Y
+player1 tell color W
+player2 discarded B5
+player1 tell number 3
+player2 played B3
+player1 discarded Y5
+player2 tell color W
+player1 discarded W4
+player2 tell number 2
+player1 discarded G5
+player2 tell number 4
+player1 played R4
+player2 discarded R4
+player1 tell color Y
+player2 discarded B1
+player1 tell number 1
+player2 played Y1
+player1 tell color R
+player2 played Y2
+player1 tell number 3
+player2 played Y3
+player1 tell number 1
+player2 played R1
+player1 discarded Y2
+player2 tell number 1
+player1 played W1
+player2 played W2
+player1 discarded Y3
+player2 discarded R2
+player1 tell color G
+player2 played G1
+player1 tell number 1
+player2 discarded R1
+player1 played W3
+player2 tell color G
+player1 played G2
+player2 discarded Y1
+player1 tell number 4
+player2 discarded G3
+player1 tell number 3
+player2 played G3
+player1 discarded G4
+player2 played B4
+player1 tell number 4
+player2 discarded G2
+player1 tell color R
+player2 played R2
+player1 discarded Y1
+player2 tell number 4
+player1 played W4
+player2 played W5
+player1 tell color Y
+player2 played Y4
+player1 discarded R3
+player2 discarded G1
+player1 tell number 4
+player2 discarded Y4
+player1 tell number 4
+player2 discarded R1
+player1 tell color G
+player2 played G4
+
+12_09 team_6 time_2
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 discarded B4
+player1 tell number 5
+player2 tell color B
+player1 played B4
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 discarded W1
+player2 discarded G5
+player1 tell color B
+player2 played B2
+player1 tell number 1
+player2 played G1
+player1 tell number 3
+player2 played R3
+player1 discarded Y4
+player2 tell number 2
+player1 played G2
+player2 discarded Y2
+player1 discarded W3
+player2 tell number 3
+player1 tell number 2
+player2 discarded W4
+player1 tell color W
+player2 played W2
+player1 played Y3
+player2 discarded G1
+player1 discarded B1
+player2 tell color G
+player1 played G3
+player2 tell number 4
+player1 played R4
+player2 discarded Y5
+player1 tell number 3
+player2 played W3
+player1 discarded G1
+player2 discarded Y3
+player1 tell number 3
+player2 discarded G4
+player1 tell number 2
+player2 discarded W2
+player1 tell number 4
+player2 played W4
+player1 discarded R1
+player2 tell color W
+player1 played W5
+player2 tell color Y
+player1 played Y1
+player2 tell number 1
+player1 discarded B1
+player2 discarded R1
+player1 tell color Y
+player2 played Y2
+player1 discarded B5
+player2 tell color B
+player1 played B3
+player2 tell number 5
+player1 played R5
+player2 tell color R
+player1 discarded R3
+player2 tell number 4
+player1 played G4
+player2 discarded Y1
+player1 discarded G3
+12_11 team_0 time_0
+
+12_11 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played Y1
+player1 tell color Y
+player2 discarded W1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played R1
+player1 tell number 5
+player2 discarded W5
+player1 tell number 4
+player2 discarded R5
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 played G2
+player1 tell number 4
+player2 tell color B
+player1 played B2
+player2 played B3
+player1 discarded R3
+player2 tell color R
+player1 played R2
+player2 discarded G3
+player1 tell color B
+player2 played B4
+player1 discarded G4
+player2 tell number 1
+player1 discarded W2
+player2 discarded G2
+player1 tell number 1
+player2 tell number 1
+player1 discarded B1
+
+12_11 team_7 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 discarded B5
+player1 tell number 2
+player2 tell number 2
+player1 tell number 3
+player2 played W2
+player1 discarded Y3
+player2 tell number 5
+player1 discarded G5
+player2 tell color B
+player1 played B2
+player2 discarded W5
+player1 discarded Y5
+player2 tell number 3
+player1 played B3
+player2 tell color B
+player1 played B1
+player2 discarded B1
+player1 tell number 1
+player2 played Y1
+player1 tell color Y
+player2 played Y2
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 played Y3
+player1 tell number 1
+player2 played R1
+player1 discarded G4
+player2 tell number 2
+player1 played G2
+player2 discarded R2
+player1 discarded W1
+player2 tell number 1
+player1 played W1
+player2 discarded W4
+player1 tell color B
+player2 played B4
+player1 tell color G
+player2 played G3
+player1 discarded G2
+player2 tell color B
+player1 discarded B3
+player2 discarded R1
+player1 tell number 1
+player2 discarded Y1
+player1 tell color Y
+player2 discarded Y1
+player1 tell number 4
+player2 played Y4
+player1 tell number 1
+player2 discarded W1
+player1 tell number 2
+player2 discarded G1
+player1 tell color R
+player2 played R2
+player1 discarded W4
+player2 played R3
+player1 discarded Y2
+player2 played R4
+player1 discarded R4
+player2 tell number 5
+player1 played R5
+player2 tell number 4
+player1 played G4
+player2 tell number 2
+player1 played W2
+
+12_11 team_7 time_4
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 tell number 1
+player1 played R1
+player2 tell number 3
+player1 tell color R
+player2 discarded R1
+player1 tell number 2
+player2 played B2
+player1 discarded R4
+player2 tell color B
+player1 played B3
+player2 tell color R
+player1 discarded B3
+player2 tell number 2
+player1 played R2
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 played W1
+player2 discarded R5
+player1 played W2
+player2 tell number 3
+player1 played W3
+player2 discarded G3
+player1 discarded Y5
+player2 tell number 1
+player1 played Y1
+player2 tell number 4
+player1 discarded G5
+player2 tell color B
+player1 played B4
+player2 discarded G3
+player1 discarded W4
+player2 tell number 5
+player1 played B5
+player2 tell number 2
+player1 played Y2
+player2 tell color G
+player1 played G1
+player2 discarded W3
+player1 tell number 1
+player2 discarded W1
+player1 discarded B1
+player2 tell number 3
+player1 tell color Y
+player2 played Y3
+player1 played Y3
+player2 discarded R1
+player1 discarded Y1
+player2 tell number 2
+player1 tell number 3
+player2 played R3
+player1 played R4
+player2 discarded B4
+player1 tell number 1
+player2 discarded G1
+player1 discarded G1
+player2 tell color G
+player1 played G2
+player2 tell color Y
+player1 discarded G2
+player2 tell number 4
+player1 played Y4
+player2 discarded W1
+player1 played W4
+player2 discarded R2
+player1 played W5
+player2 discarded G4
+
+12_11 team_7 time_1
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played R1
+player1 tell number 2
+player2 tell number 2
+player1 discarded W1
+player2 tell number 1
+player1 played B1
+player2 tell number 2
+player1 played G2
+player2 tell number 5
+player1 played R2
+player2 discarded G4
+player1 tell number 1
+player2 played R1
+player1 tell color B
+player2 tell number 4
+player1 discarded G5
+player2 tell number 1
+player1 played G1
+player2 discarded B2
+player1 discarded R3
+player2 tell color B
+player1 played B1
+
+12_11 team_7 time_2
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 discarded B5
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 discarded G3
+player1 tell number 1
+player2 played Y1
+player1 tell number 2
+player2 played R2
+player1 tell number 5
+player2 tell number 2
+player1 played Y2
+player2 discarded G5
+player1 tell number 3
+player2 played W3
+player1 discarded Y4
+player2 tell number 3
+player1 played R3
+player2 discarded R1
+player1 tell color G
+player2 tell number 5
+player1 tell color G
+player2 tell color B
+player1 played B1
+player2 discarded B1
+player1 tell number 1
+player2 played G1
+player1 discarded W5
+player2 tell number 2
+player1 played W2
+player2 discarded Y2
+player1 tell number 1
+player2 discarded R1
+player1 tell number 3
+player2 discarded G4
+player1 tell number 2
+player2 played B2
+player1 played B3
+player2 discarded R4
+player1 tell number 1
+player2 discarded W1
+player1 tell number 4
+player2 played B4
+player1 discarded G2
+player2 tell color Y
+player1 played Y3
+player2 discarded G1
+player1 tell color W
+player2 discarded G3
+player1 tell number 3
+player2 played W3
+player1 discarded R4
+player2 discarded B3
+player1 tell number 1
+player2 tell number 1
+player1 discarded W1
+player2 tell color G
+player1 played G2
+player2 discarded Y1
+player1 played Y4
+player2 discarded W4
+player1 tell color Y
+player2 played Y5
+player1 discarded G4
+player2 tell color W
+player1 played W4
+
+12_11 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 5
+player2 played W1
+player1 tell number 1
+player2 tell number 2
+player1 tell number 5
+player2 tell color W
+player1 played W2
+player2 played Y1
+player1 tell number 1
+player2 discarded Y5
+player1 tell number 2
+player2 played Y2
+player1 played B2
+player2 tell color B
+player1 discarded Y4
+player2 discarded W5
+player1 tell color R
+player2 played R1
+player1 tell number 4
+player2 discarded R4
+player1 discarded G2
+player2 tell number 1
+player1 played B1
+player2 tell number 2
+player1 played R2
+player2 discarded W1
+player1 tell number 3
+player2 discarded B4
+player1 tell color Y
+player2 played Y3
+player1 discarded G4
+player2 tell color R
+player1 played R3
+player2 played R4
+player1 discarded W1
+player2 played R5
+player1 tell color Y
+
+12_11 team_8 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 1
+player1 played B1
+player2 discarded B5
+player1 discarded Y3
+player2 tell color B
+player1 played B3
+player2 played W2
+player1 tell number 5
+player2 discarded W5
+player1 discarded W3
+player2 discarded Y5
+player1 tell number 2
+player2 discarded Y2
+player1 tell number 1
+player2 played Y1
+player1 tell number 1
+player2 tell number 2
+player1 played Y2
+player2 played G1
+player1 tell color G
+player2 played G2
+player1 tell color Y
+player2 played Y3
+player1 tell number 1
+player2 played R1
+player1 tell number 1
+player2 played W1
+player1 discarded B1
+player2 discarded W4
+player1 tell number 2
+player2 played R2
+player1 tell number 3
+player2 played R3
+player1 discarded R4
+player2 tell number 4
+player1 played R4
+player2 discarded W4
+player1 tell number 4
+player2 played B4
+player1 discarded Y1
+player2 tell number 3
+player1 discarded Y1
+player2 tell number 4
+player1 played Y4
+player2 discarded B3
+player1 tell number 1
+player2 discarded G1
+player1 discarded R1
+player2 tell color G
+player1 played G3
+player2 discarded W1
+player1 tell number 5
+player2 played R5
+player1 tell number 4
+player2 played G4
+player1 tell number 1
+player2 discarded G1
+player1 discarded G3
+player2 tell number 1
+player1 discarded W1
+player2 tell number 5
+player1 played G5
+player2 tell number 2
+player1 played W2
+
+12_11 team_8 time_3
+player1 tell number 1
+player2 tell number 1
+player1 played R1
+player2 played B1
+player1 tell color R
+player2 discarded R1
+player1 tell number 2
+player2 played B2
+player1 tell number 3
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 tell color G
+player2 tell number 5
+player1 tell color B
+player2 discarded W3
+player1 discarded G5
+player2 tell number 1
+player1 played W1
+player2 tell number 2
+player1 played W2
+player2 discarded G3
+player1 tell number 5
+player2 discarded R5
+player1 discarded R4
+player2 tell number 3
+player1 played W3
+player2 tell number 1
+player1 played Y1
+player2 discarded B1
+player1 tell number 5
+player2 discarded W5
+player1 tell number 4
+player2 played W4
+player1 discarded B3
+player2 tell number 4
+player1 played B4
+player2 discarded B5
+player1 tell number 1
+player2 played G1
+player1 discarded R4
+player2 tell number 1
+player1 discarded B1
+player2 discarded W1
+player1 tell number 2
+player2 played Y2
+player1 tell number 3
+player2 played Y3
+player1 discarded G1
+player2 tell number 2
+player1 played G2
+player2 discarded R2
+player1 tell number 3
+player2 played R3
+player1 discarded R1
+player2 tell number 3
+player1 played G3
+player2 played G4
+player1 discarded Y3
+player2 tell number 4
+player1 played Y4
+player2 played Y5
+player1 discarded B4
+player2 discarded W2
+player1 discarded Y2
+player2 discarded Y4
+player1 discarded R3
+
+12_11 team_8 time_1
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 tell number 2
+player2 played R2
+player1 played Y2
+player2 discarded B5
+player1 tell number 5
+player2 tell number 3
+player1 played B3
+player2 discarded Y5
+player1 played R3
+player2 discarded G4
+player1 discarded R5
+player2 discarded W3
+player1 tell number 1
+player2 discarded G1
+player1 tell number 3
+player2 discarded R1
+player1 tell color Y
+player2 played Y3
+player1 tell number 4
+player2 played Y4
+player1 tell number 2
+player2 discarded Y2
+player1 tell number 4
+player2 played R4
+player1 tell color W
+player2 played W2
+player1 discarded W5
+player2 tell number 2
+player1 played B2
+player2 discarded G5
+player1 tell color B
+player2 played B3
+player1 discarded B1
+player2 tell number 4
+player1 discarded Y4
+player2 tell color B
+player1 played B4
+player2 discarded G3
+player1 tell number 1
+player2 discarded W1
+player1 tell color W
+player2 played W3
+player1 discarded B1
+player2 discarded R1
+player1 tell number 1
+player2 tell number 1
+player1 discarded W1
+player2 tell color G
+player1 played G1
+player2 discarded G1
+player1 tell color G
+player2 played R2
+player1 discarded B4
+player2 discarded W4
+player1 tell number 2
+player2 played G2
+player1 tell number 3
+player2 played G3
+player1 played G4
+player2 played W4
+
+12_11 team_8 time_4
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 discarded B4
+player2 tell color B
+player1 played B1
+player2 discarded Y2
+player1 tell number 4
+player2 discarded Y2
+player1 played W1
+player2 tell color B
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell number 2
+player1 played G2
+player2 tell number 3
+player1 played R3
+player2 discarded R1
+player1 tell number 3
+player2 played G3
+player1 discarded Y3
+player2 discarded W2
+player1 tell number 2
+player2 played W2
+player1 tell color G
+player2 played G4
+player1 discarded W3
+player2 tell color G
+player1 played G5
+player2 tell number 4
+player1 played R4
+player2 discarded G1
+player1 tell number 1
+player2 played G1
+player1 discarded R1
+player2 discarded G3
+player1 tell number 3
+player2 played W3
+player1 discarded Y5
+player2 played W4
+player1 tell number 4
+player2 tell color W
+player1 played W5
+player2 discarded R2
+player1 discarded B1
+player2 tell number 1
+player1 tell color W
+player2 tell color Y
+player1 played Y1
+player2 discarded W4
+player1 tell number 3
+player2 played B3
+player1 discarded Y4
+player2 tell color R
+player1 played R5
+player2 discarded B1
+player1 tell color B
+player2 played B4
+player1 discarded Y3
+player2 tell number 5
+player1 played B5
+player2 discarded Y4
+player1 discarded G4
+player2 discarded R4
+
+12_12 team_0 time_0
+
+12_12 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played W1
+player1 tell color Y
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played R1
+player1 tell number 5
+player2 discarded W5
+player1 tell color B
+player2 tell number 2
+player1 discarded R3
+player2 tell number 1
+player1 played B1
+player2 tell color B
+player1 played B2
+player2 discarded R4
+player1 tell number 3
+player2 played B3
+player1 discarded W4
+player2 tell color W
+player1 played W2
+player2 discarded Y5
+player1 tell number 2
+player2 played G2
+player1 discarded R4
+player2 tell number 1
+player1 discarded Y1
+player2 tell number 1
+player1 discarded B1
+player2 tell number 1
+player1 discarded W1
+player2 tell color W
+player1 played W3
+player2 discarded R5
+
+12_12 team_9 time_2
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell color R
+player2 played R5
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 tell color B
+player1 played B3
+player2 tell number 2
+player1 discarded R1
+player2 tell color R
+player1 played R2
+player2 tell number 5
+player1 discarded W5
+player2 tell number 1
+player1 discarded W2
+player2 tell color W
+player1 played W1
+player2 discarded G4
+player1 tell number 3
+player2 discarded B3
+player1 tell color G
+player2 discarded G3
+player1 tell number 1
+player2 discarded W1
+player1 tell color Y
+player2 played Y1
+player1 discarded B1
+player2 tell number 4
+player1 discarded W3
+player2 tell color R
+player1 discarded R4
+player2 tell color G
+player1 discarded W4
+player2 tell number 1
+player1 played G1
+player2 discarded Y3
+player1 tell number 2
+player2 played Y2
+player1 discarded B5
+player2 tell number 4
+player1 played B4
+player2 discarded B4
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 2
+player2 played R2
+player1 discarded B1
+player2 tell number 1
+player1 discarded R1
+player2 tell number 1
+player1 discarded W1
+player2 tell number 2
+player1 discarded G1
+player2 tell color G
+player1 played G2
+player2 played G3
+player1 discarded G2
+player2 tell number 4
+player1 played G4
+player2 discarded Y3
+player1 played G5
+player2 tell number 1
+player1 discarded Y1
+player2 tell number 2
+player1 tell number 5
+player2 discarded Y5
+player1 tell color R
+player2 played R3
+player1 played R4
+player2 discarded R3
+
+12_12 team_9 time_3
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell color Y
+player2 tell number 2
+player1 played R2
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 discarded W1
+player2 tell color G
+player1 tell number 2
+player2 discarded Y2
+player1 tell number 4
+player2 discarded Y4
+player1 tell color B
+player2 tell number 3
+player1 played W3
+player2 discarded R1
+player1 tell number 1
+player2 played G1
+player1 discarded B2
+player2 tell number 5
+player1 played G2
+player2 discarded B4
+player1 tell color R
+player2 played R3
+player1 discarded Y3
+player2 tell number 1
+player1 played B1
+player2 discarded G3
+player1 discarded R1
+player2 tell number 2
+player1 played W2
+player2 tell number 5
+player1 discarded W5
+player2 tell color R
+player1 played R4
+player2 discarded G1
+player1 tell number 3
+player2 played G3
+player1 discarded B5
+player2 played G4
+player1 played G5
+player2 tell color G
+player1 discarded G1
+player2 tell number 4
+player1 tell color W
+player2 discarded W2
+player1 tell number 3
+player2 played W3
+player1 discarded W4
+player2 played W4
+player1 tell number 1
+player2 played Y1
+player1 discarded Y3
+player2 played Y2
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 4
+player2 discarded Y4
+player1 discarded Y5
+player2 tell number 1
+player1 discarded B1
+player2 tell number 3
+player1 tell number 5
+player2 played R5
+player1 tell color B
+player2 played B2
+
+12_12 team_4 time_2
+
+12_12 team_9 time_4
+player1 tell number 3
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 tell number 1
+player1 tell color R
+player2 played R2
+player1 played Y1
+player2 tell color R
+player1 played R1
+player2 discarded B5
+player1 tell number 2
+player2 played Y2
+player1 tell number 3
+player2 discarded G4
+player1 tell number 5
+player2 discarded Y4
+player1 discarded G4
+player2 discarded R5
+player1 tell color W
+player2 discarded Y4
+player1 tell number 1
+player2 discarded Y5
+player1 tell color G
+player2 discarded B1
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 discarded R1
+player1 tell number 3
+player2 played Y3
+player1 tell number 2
+player2 discarded Y2
+player1 tell color W
+player2 played W2
+player1 tell number 1
+player2 played W3
+player1 discarded B3
+player2 tell number 2
+player1 played B2
+player2 discarded R1
+player1 tell number 2
+player2 played G2
+player1 discarded G5
+player2 played G3
+player1 tell number 3
+player2 discarded R4
+player1 tell color B
+player2 played B3
+player1 discarded B1
+player2 tell color B
+player1 played B4
+player2 discarded W1
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 2
+player2 discarded W1
+player1 discarded R2
+player2 tell number 4
+player1 played W4
+player2 tell number 5
+player1 played W5
+player2 discarded G3
+player1 tell color B
+player2 discarded B2
+player1 discarded R3
+player2 discarded G2
+
+12_12 team_9 time_1
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 tell number 2
+player1 tell color W
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 tell number 5
+player2 discarded B5
+player1 discarded Y3
+player2 tell number 5
+player1 discarded Y2
+player2 tell color B
+player1 discarded B1
+player2 tell number 3
+player1 played B3
+player2 tell color W
+player1 tell color R
+player2 discarded R4
+player1 discarded W4
+player2 tell color G
+player1 discarded Y5
+player2 tell number 4
+player1 tell color Y
+player2 discarded G2
+player1 tell number 1
+player2 played Y1
+player1 discarded B1
+player2 tell number 1
+player1 played R1
+player2 played Y2
+player1 discarded Y3
+player2 tell color R
+player1 discarded W3
+player2 tell color W
+player1 played W1
+player2 played W2
+player1 discarded G4
+player2 tell number 1
+player1 discarded R1
+player2 tell color W
+player1 discarded W1
+player2 tell color B
+player1 played B4
+player2 discarded R3
+player1 tell color G
+player2 played G1
+player1 discarded G3
+player2 tell number 2
+player1 played G2
+player2 discarded R2
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 1
+player2 discarded W1
+player1 tell color R
+player2 played R2
+player1 discarded B4
+player2 tell number 3
+player1 played G3
+player2 discarded G1
+player1 played R3
+player2 tell number 5
+player1 played R4
+player2 discarded Y4
+player1 played R5
+player2 tell number 3
+player1 tell color G
+player2 played G1
+player1 played W3
+player2 played G4
+
+12_15 team_0 time_0
+
+12_15 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played W1
+player1 tell number 5
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played R1
+player1 tell color R
+player2 tell number 2
+player1 played B2
+player2 discarded R5
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 played G2
+player1 discarded W4
+player2 discarded W5
+player1 tell color G
+player2 played G3
+player1 tell number 2
+player2 played R2
+player1 discarded Y4
+player2 discarded Y5
+player1 tell color Y
+player2 played Y3
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 1
+player2 discarded B1
+player1 discarded R3
+player2 tell color W
+player1 played W2
+player2 tell number 1
+player1 discarded G1
+player2 tell number 3
+player1 played W3
+player2 discarded G4
+player1 discarded W1
+
+12_15 team_10 time_2
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played R1
+player1 tell color Y
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played B1
+player2 discarded W4
+player1 discarded G2
+player2 tell number 2
+player1 played R2
+player2 tell number 1
+player1 played R1
+player2 tell number 2
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell color R
+player1 played R3
+player2 discarded Y2
+player1 tell color B
+player2 discarded G4
+player1 discarded B4
+player2 tell number 2
+player1 played W2
+player2 tell number 5
+player1 discarded W5
+player2 tell color Y
+player1 discarded Y4
+player2 discarded W3
+player1 tell color G
+player2 tell number 1
+player1 discarded R1
+player2 tell number 5
+player1 discarded Y5
+player2 tell number 1
+player1 discarded G1
+player2 tell number 4
+player1 played R4
+player2 discarded G3
+player1 tell number 3
+player2 played W3
+player1 discarded W2
+player2 tell number 5
+player1 discarded G5
+player2 tell color W
+player1 played W4
+player2 discarded G1
+player1 discarded G3
+player2 tell number 2
+player1 played G2
+player2 tell number 1
+player1 discarded B1
+player2 tell number 1
+player1 played Y1
+player2 discarded B1
+player1 tell color Y
+player2 discarded B3
+player1 tell number 2
+player2 played Y2
+player1 played Y3
+player2 discarded R2
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 3
+player2 discarded Y1
+player1 tell color B
+player2 played B3
+player1 discarded R4
+player2 played B4
+
+12_15 team_10 time_3
+player1 tell number 3
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell number 5
+player1 tell number 2
+player2 played R2
+player1 discarded B3
+player2 tell number 5
+player1 discarded Y5
+player2 tell color R
+player1 played R3
+player2 discarded G4
+player1 discarded G5
+player2 tell number 1
+player1 played R1
+player2 discarded B5
+player1 tell color G
+player2 tell number 4
+player1 discarded W5
+player2 tell number 3
+player1 played Y3
+player2 discarded B1
+player1 tell number 1
+player2 played G1
+player1 discarded B1
+player2 tell color Y
+player1 played Y4
+player2 discarded R1
+player1 tell number 2
+player2 played W2
+player1 discarded Y4
+player2 tell number 4
+player1 discarded R4
+player2 tell color R
+player1 played R4
+player2 discarded B3
+player1 tell color W
+player2 played W3
+player1 discarded Y2
+player2 tell number 2
+player1 played G2
+player2 discarded R5
+player1 tell number 2
+player2 played B2
+player1 discarded W1
+player2 tell number 3
+player1 played G3
+player2 discarded B4
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 3
+player2 discarded G3
+player1 played G4
+player2 discarded G1
+player1 tell number 2
+player2 discarded R2
+player1 tell color W
+player2 discarded W3
+player1 tell number 4
+player2 tell number 4
+player1 played W4
+player2 discarded B4
+player1 discarded B2
+
+12_15 team_10 time_1
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 tell number 1
+player1 played R1
+player2 tell number 3
+player1 tell color R
+player2 discarded R1
+player1 tell number 2
+player2 played B2
+player1 tell color G
+player2 tell color B
+player1 played B3
+player2 discarded G3
+player1 discarded B3
+player2 tell number 5
+player1 discarded G5
+player2 tell number 1
+player1 played W1
+player2 tell number 4
+player1 discarded W5
+player2 tell color W
+player1 played W2
+player2 tell number 3
+player1 played W3
+player2 discarded R5
+player1 tell color Y
+player2 played Y1
+player1 discarded R4
+player2 tell number 2
+player1 played R2
+player2 discarded W3
+player1 tell color W
+player2 played W4
+player1 discarded B4
+player2 tell color B
+player1 discarded B5
+player2 tell number 4
+player1 played B4
+player2 discarded Y3
+player1 tell color G
+player2 discarded B1
+player1 tell number 1
+player2 played G1
+player1 discarded Y5
+player2 tell color Y
+player1 played Y2
+player2 discarded G1
+player1 tell number 3
+player2 discarded Y1
+player1 tell color R
+player2 played R3
+player1 discarded W1
+player2 tell number 4
+player1 played R4
+player2 discarded R1
+player1 tell number 2
+player2 played G2
+player1 discarded B1
+player2 played G3
+player1 tell number 4
+player2 played G4
+player1 discarded R2
+player2 tell number 3
+player1 played Y3
+player2 discarded G1
+player1 tell color Y
+player2 played Y4
+player1 discarded W4
+player2 discarded Y4
+
+12_15 team_10 time_4
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 tell number 2
+player2 discarded R3
+player1 discarded G5
+player2 tell color Y
+player1 discarded Y2
+player2 tell number 3
+player1 discarded B1
+player2 tell color B
+player1 played B3
+player2 tell color W
+player1 tell color W
+player2 discarded B5
+player1 discarded W3
+player2 tell number 4
+player1 discarded W4
+player2 tell number 1
+player1 discarded B1
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 played G1
+player2 tell number 1
+player1 played R1
+player2 discarded R4
+player1 tell number 2
+player2 discarded Y2
+player1 tell color G
+player2 played G2
+player1 tell color R
+player2 played R2
+player1 discarded Y5
+player2 discarded W1
+player1 discarded Y3
+player2 discarded W1
+player1 tell color B
+player2 discarded W4
+player1 tell color G
+player2 played G3
+player1 tell number 4
+player2 played B4
+player1 tell number 1
+player2 tell number 4
+player1 discarded G2
+player2 tell color G
+player1 played G4
+player2 discarded R1
+player1 tell color Y
+player2 discarded Y1
+player1 tell number 1
+player2 discarded W5
+player1 tell number 1
+player2 discarded B3
+player1 tell color W
+player2 played W1
+player1 discarded Y1
+player2 played W2
+player1 discarded Y3
+player2 tell number 3
+player1 discarded G1
+player2 tell color R
+player1 played R3
+player2 discarded G1
+player1 played R4
+player2 tell color W
+player1 discarded G3
+player2 tell number 3
+player1 tell number 5
+player2 played R5
+
+12_15 team_0 time_0
+player1 tell number 1
+player2 played W1
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 discarded R1
+player1 tell number 5
+player2 discarded W5
+player1 tell color R
+player2 discarded R5
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 played G2
+player1 tell number 4
+player2 tell color B
+player1 played B2
+player2 discarded B4
+player1 tell number 3
+player2 played G3
+player1 discarded R3
+player2 tell number 2
+player1 played W2
+player2 discarded R4
+player1 tell number 3
+player2 played Y3
+player1 discarded Y4
+player2 discarded Y5
+player1 tell color B
+player2 played B3
+player1 tell number 3
+player2 played W3
+player1 discarded G4
+player2 tell number 4
+player1 played W4
+player2 discarded R4
+
+12_15 team_11 time_1
+player1 tell number 1
+player2 played W1
+player1 tell color R
+player2 played R1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 discarded Y2
+player1 tell number 5
+player2 discarded G5
+player1 discarded Y3
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 discarded B4
+player1 tell number 1
+player2 played G1
+player1 tell color R
+player2 played R3
+player1 discarded R1
+player2 tell number 2
+player1 played G2
+player2 tell number 3
+player1 played G3
+player2 tell color W
+player1 played W2
+player2 tell color B
+player1 played B2
+player2 discarded Y2
+player1 tell color G
+player2 played G4
+player1 discarded Y4
+player2 discarded G1
+player1 tell number 4
+player2 played R4
+player1 tell number 3
+player2 played W3
+player1 discarded W5
+player2 tell number 4
+player1 discarded B4
+player2 tell color Y
+player1 discarded Y3
+player2 tell color W
+player1 discarded W3
+player2 tell number 1
+player1 discarded B1
+player2 tell number 2
+player1 discarded W2
+player2 tell color R
+player1 discarded G2
+player2 tell number 4
+player1 discarded R4
+player2 tell number 1
+player1 discarded Y5
+player2 tell color Y
+player1 discarded Y4
+player2 tell number 5
+player1 played R5
+player2 tell number 3
+player1 played B3
+player2 played W4
+player1 discarded B1
+player2 tell number 1
+player1 played Y1
+player2 discarded Y1
+player1 discarded R2
+player2 discarded B3
+player1 discarded G4
+player2 discarded B2
+
+12_15 team_11 time_2
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell color B
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 discarded B5
+player1 tell number 2
+player2 played R2
+player1 tell number 5
+player2 discarded R5
+player1 discarded R3
+player2 tell number 5
+player1 discarded W5
+player2 discarded Y5
+player1 discarded B3
+player2 tell number 1
+player1 discarded R1
+player2 tell number 1
+player1 discarded B1
+player2 tell number 3
+player1 played Y3
+player2 tell color G
+player1 played G1
+player2 tell number 1
+player1 discarded R1
+player2 tell color W
+player1 played W2
+player2 tell color B
+player1 tell color W
+player2 played W3
+player1 discarded B1
+player2 discarded Y4
+player1 tell color Y
+player2 played Y4
+player1 tell color B
+player2 played B2
+player1 discarded Y2
+player2 tell number 3
+player1 played B3
+player2 discarded G3
+player1 tell number 2
+player2 played G2
+player1 discarded W1
+player2 tell color B
+player1 discarded B4
+player2 discarded R4
+player1 tell number 3
+player2 played G3
+player1 played G4
+player2 tell color G
+player1 played G5
+player2 discarded G4
+player1 tell number 4
+player2 played B4
+player1 tell number 1
+player2 discarded W1
+player1 discarded G1
+player2 tell number 3
+player1 tell number 4
+player2 played W4
+player1 played R3
+player2 discarded G1
+player1 discarded W3
+player2 tell number 4
+
+12_15 team_11 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell number 2
+player1 played B2
+player2 tell color Y
+player1 played Y3
+player2 discarded B5
+player1 tell number 5
+player2 discarded W5
+player1 tell color B
+player2 played B3
+player1 tell color B
+player2 played B1
+player1 discarded W3
+player2 discarded Y5
+player1 discarded B1
+player2 discarded W2
+player1 tell number 1
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell color G
+player2 played G1
+player1 tell number 1
+player2 played R1
+player1 tell color Y
+player2 played Y3
+player1 tell number 2
+player2 played R2
+player1 tell number 3
+player2 played R3
+player1 discarded Y2
+player2 tell color R
+player1 played R4
+player2 discarded R4
+player1 tell number 1
+player2 played W1
+player1 discarded G5
+player2 tell color G
+player1 played G2
+player2 discarded W1
+player1 tell color B
+player2 played B4
+player1 discarded G4
+player2 tell number 3
+player1 played G3
+player2 discarded B3
+player1 tell color B
+player2 played B4
+
+12_15 team_11 time_4
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell number 5
+player2 tell color R
+player1 tell number 3
+player2 discarded G3
+player1 tell number 2
+player2 played B2
+player1 tell color B
+player2 played B3
+player1 tell number 2
+player2 played R2
+player1 discarded R1
+player2 discarded G4
+player1 tell color W
+player2 discarded G3
+player1 tell number 1
+player2 played W1
+player1 tell color B
+player2 tell number 2
+player1 played W2
+player2 played W3
+player1 discarded R4
+player2 tell color Y
+player1 played Y1
+player2 discarded B1
+player1 tell color B
+player2 played B4
+player1 discarded W5
+player2 tell number 4
+player1 played W4
+player2 discarded R4
+player1 discarded G5
+player2 tell color G
+player1 played G1
+player2 tell number 2
+player1 played Y2
+player2 discarded R5
+player1 discarded B3
+player2 tell number 3
+player1 played Y3
+player2 discarded W3
+player1 discarded W1
+player2 tell number 3
+player1 played R3
+player2 tell color G
+player1 played G2
+player2 discarded Y5
+player1 tell number 5
+player2 played B5
+player1 tell number 2
+player2 discarded W2
+player1 tell color G
+player2 discarded G2
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded Y1
+player1 tell color Y
+player2 discarded G1
+player1 tell number 4
+player2 played Y4
+player1 discarded W1
+player2 discarded Y3
+player1 discarded Y2
+player2 discarded B4
+player1 discarded R3
+player2 discarded B2
+
+12_15 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell color Y
+player2 played W1
+player1 tell number 1
+player2 played Y1
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played R1
+player1 tell number 5
+player2 tell number 2
+player1 discarded W4
+player2 discarded W5
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 played G2
+player1 tell number 4
+player2 discarded R5
+player1 discarded Y4
+player2 tell number 2
+player1 played B2
+player2 tell color R
+player1 discarded B4
+player2 tell color W
+player1 played W2
+player2 discarded Y5
+player1 tell color B
+player2 played B3
+player1 discarded G3
+player2 tell number 2
+player1 played R2
+player2 discarded R4
+player1 tell number 3
+player2 played Y3
+player1 discarded G2
+player2 tell number 3
+player1 played R3
+
+12_15 team_12 time_1
+player1 tell number 3
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played B1
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell number 5
+player1 tell color R
+player2 played R2
+player1 discarded G5
+player2 tell color R
+player1 played R3
+player2 discarded G4
+player1 discarded W5
+player2 tell number 1
+player1 played B1
+player2 discarded B5
+player1 tell number 1
+player2 discarded R1
+player1 tell color G
+player2 discarded R5
+player1 tell color Y
+player2 played Y3
+player1 tell color G
+player2 played B1
+player1 discarded Y5
+player2 tell number 2
+player1 played W2
+player2 discarded G3
+player1 tell color W
+player2 played W3
+player1 discarded B3
+player2 tell color R
+player1 played R4
+player2 discarded Y2
+player1 tell number 1
+player2 discarded R1
+player1 tell number 2
+player2 played G2
+
+12_15 team_12 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 tell color B
+player1 played B2
+player2 tell color Y
+player1 tell color Y
+player2 discarded B5
+player1 discarded B1
+player2 tell number 5
+player1 discarded Y5
+player2 tell color B
+player1 played B3
+player2 discarded W5
+player1 discarded G5
+player2 tell number 2
+player1 discarded Y2
+player2 discarded R3
+player1 tell number 4
+player2 discarded W4
+player1 tell number 1
+player2 played Y1
+player1 discarded B1
+player2 played Y2
+player1 tell number 3
+player2 played Y3
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played R1
+player1 tell number 1
+player2 played W1
+player1 tell color W
+player2 played W2
+player1 tell number 2
+player2 played R2
+player1 tell number 1
+player2 discarded W1
+player1 tell number 2
+player2 played G2
+player1 discarded R4
+player2 tell number 3
+player1 discarded Y3
+player2 tell color W
+player1 played W3
+player2 discarded Y1
+player1 tell color W
+player2 played W4
+player1 discarded G2
+player2 tell number 4
+player1 played Y4
+player2 discarded B4
+player1 tell number 3
+player2 played G3
+player1 discarded Y1
+player2 tell number 1
+player1 discarded W1
+player2 tell color R
+player1 discarded R1
+player2 tell number 3
+player1 played R3
+player2 discarded G1
+player1 tell color B
+player2 played B4
+player1 discarded G3
+player2 played G4
+player1 tell number 4
+player2 played R4
+player1 played G1
+player2 played W3
+
+12_15 team_12 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 played R1
+player1 tell number 3
+player2 tell number 1
+player1 played R1
+player2 tell number 2
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 discarded R5
+player1 tell color B
+player2 played B3
+player1 tell color R
+player2 played R2
+player1 discarded R4
+player2 tell number 1
+player1 played W1
+player2 discarded G3
+player1 discarded G5
+player2 tell color W
+player1 played W2
+player2 tell number 5
+player1 discarded Y5
+player2 tell number 1
+player1 discarded B3
+player2 tell color Y
+player1 played Y1
+player2 discarded G3
+player1 tell color W
+player2 played W3
+player1 discarded W1
+player2 tell color B
+player1 played B4
+player2 discarded B1
+player1 tell number 5
+player2 played B5
+player1 tell number 4
+player2 played W4
+player1 discarded G1
+player2 played W5
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 discarded W3
+player1 tell number 3
+player2 played Y3
+player1 discarded R4
+player2 tell number 1
+player1 played G1
+player2 discarded R1
+player1 tell color G
+player2 played G2
+player1 discarded G2
+player2 discarded B1
+player1 tell number 3
+player2 played R3
+player1 discarded Y3
+player2 tell color Y
+player1 played Y4
+player2 discarded Y1
+player1 discarded G4
+player2 discarded W4
+player1 discarded G4
+player2 discarded Y4
+player1 discarded B2
+
+12_15 team_12 time_4
+player1 tell number 1
+player2 played R1
+player1 tell number 4
+player2 tell number 1
+player1 played W1
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 played B1
+player2 discarded Y2
+player1 tell color W
+player2 discarded W1
+player1 tell number 4
+player2 discarded W3
+player1 discarded B4
+player2 tell color B
+player1 played B2
+player2 tell number 1
+player1 played G1
+player2 tell color R
+player1 played R3
+player2 tell number 2
+player1 played Y2
+player2 tell color G
+player1 played G2
+player2 discarded R1
+player1 tell number 2
+player2 played W2
+player1 discarded R1
+player2 tell number 3
+player1 played Y3
+player2 discarded W5
+player1 tell number 1
+player2 played G1
+
+12_18 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 5
+player2 played W1
+player1 tell number 1
+player2 tell number 2
+player1 tell color Y
+player2 tell color W
+player1 played W2
+player2 played Y1
+player1 tell number 1
+player2 played R1
+player1 tell color Y
+player2 discarded W5
+player1 tell number 2
+player2 played Y2
+player1 discarded R3
+player2 tell color G
+player1 played G2
+player2 discarded R5
+player1 tell number 1
+player2 discarded R4
+player1 tell color B
+player2 played B1
+player1 discarded Y4
+player2 tell color B
+player1 played B2
+player2 discarded W1
+player1 tell number 3
+player2 discarded R2
+player1 tell color Y
+player2 played Y3
+player1 discarded R4
+player2 tell number 3
+player1 played B3
+player2 discarded B1
+player1 tell number 4
+player2 played B4
+
+12_18 team_13 time_1
+player1 tell number 1
+player2 played B1
+player1 tell color W
+player2 tell color B
+player1 played B2
+player2 tell number 5
+player1 discarded G5
+player2 tell number 3
+player1 tell number 5
+player2 discarded B5
+player1 discarded Y2
+player2 tell number 3
+player1 tell color Y
+player2 discarded W5
+player1 discarded B1
+player2 tell color B
+player1 played B3
+player2 tell number 4
+player1 discarded R4
+player2 discarded B1
+player1 discarded Y3
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 played G1
+player2 tell number 1
+player1 played R1
+player2 tell number 2
+player1 played G2
+player2 tell number 2
+player1 played R2
+player2 discarded R3
+player1 tell number 1
+player2 played W1
+player1 tell number 2
+player2 played W2
+player1 discarded R4
+player2 played Y2
+player1 tell number 1
+player2 discarded W1
+player1 played W3
+player2 tell number 3
+player1 discarded W4
+player2 tell color G
+player1 played G3
+player2 discarded Y1
+player1 tell number 2
+player2 discarded G2
+player1 discarded R1
+player2 tell color W
+player1 played W4
+player2 tell number 1
+player1 discarded Y1
+player2 tell color Y
+player1 played Y3
+player2 discarded B4
+player1 discarded W1
+player2 tell number 4
+player1 played Y4
+player2 tell number 2
+player1 discarded R2
+player2 tell number 1
+player1 discarded G1
+player2 discarded G4
+player1 tell number 5
+player2 played Y5
+player1 tell number 2
+player2 discarded B2
+player1 tell number 4
+player2 played B4
+player1 tell color G
+player2 played G4
+
+12_18 team_13 time_2
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 played R1
+player1 tell color G
+player2 discarded G3
+player1 tell number 2
+player2 played B2
+player1 tell number 3
+player2 discarded R5
+player1 tell color B
+player2 played B3
+player1 tell number 1
+player2 discarded B1
+player1 tell number 2
+player2 played R2
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 tell number 2
+player1 played W2
+player2 discarded R4
+player1 tell number 1
+player2 discarded W1
+player1 tell color W
+player2 played W3
+player1 discarded B3
+player2 tell number 3
+player1 discarded Y3
+player2 tell color B
+player1 played B4
+player2 discarded G4
+player1 tell number 1
+player2 played Y1
+player1 discarded G5
+player2 tell number 5
+player1 played B5
+player2 tell color B
+player1 discarded B1
+player2 tell color Y
+player1 played Y2
+player2 discarded Y5
+player1 tell number 4
+player2 played W4
+player1 discarded B4
+player2 played W5
+player1 tell number 3
+player2 played Y3
+player1 tell number 3
+player2 played R3
+player1 discarded W3
+player2 tell number 4
+player1 played R4
+player2 discarded G1
+player1 tell color W
+player2 discarded W2
+player1 tell color G
+player2 discarded R1
+player1 tell number 1
+player2 played G1
+player1 discarded R1
+player2 tell color G
+player1 played G2
+player2 played G3
+player1 discarded W1
+player2 tell number 4
+player1 played Y4
+player2 discarded G1
+player1 tell number 4
+player2 played G4
+
+12_18 team_13 time_3
+player1 tell number 1
+player2 played W1
+player1 tell number 4
+player2 played R1
+player1 tell color Y
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 discarded W1
+player2 tell number 3
+player1 tell number 2
+player2 discarded Y2
+player1 discarded G5
+player2 discarded B4
+player1 tell number 2
+player2 played B2
+player1 tell number 1
+player2 played G1
+player1 tell number 3
+player2 played R3
+player1 discarded G2
+player2 discarded W4
+player1 discarded Y3
+player2 tell color W
+player1 played W2
+player2 discarded Y4
+player1 played W3
+player2 discarded G4
+player1 tell number 1
+player2 tell number 1
+player1 discarded R1
+player2 discarded G1
+player1 discarded G1
+player2 discarded R1
+player1 discarded B1
+player2 tell number 5
+player1 tell number 4
+player2 played R4
+player1 tell color G
+player2 tell color B
+player1 tell color G
+player2 tell number 3
+player1 discarded W3
+player2 tell number 4
+player1 tell number 3
+player2 discarded G3
+player1 tell number 4
+player2 played W4
+player1 tell color W
+player2 discarded W2
+player1 tell color R
+player2 discarded R2
+player1 tell number 2
+player2 discarded G2
+player1 discarded R4
+player2 tell color W
+player1 played W5
+player2 tell color R
+player1 played R5
+player2 tell color B
+player1 played B3
+player2 tell number 1
+player1 played Y1
+player2 discarded G3
+player1 played B4
+player2 played Y2
+player1 tell color Y
+player2 played Y3
+player1 played B5
+player2 played Y4
+player1 played Y5
+
+12_18 team_13 time_4
+player1 tell number 3
+player2 tell number 1
+player1 played B1
+player2 tell color W
+player1 played W1
+player2 tell color Y
+player1 played Y1
+player2 tell number 2
+player1 played Y2
+player2 tell number 1
+player1 played R1
+player2 discarded B5
+player1 tell number 2
+player2 played R2
+player1 discarded R3
+player2 tell number 4
+player1 discarded G4
+player2 tell number 5
+player1 tell number 5
+player2 discarded G4
+player1 discarded G5
+player2 tell color Y
+player1 discarded Y4
+player2 tell number 1
+player1 played R1
+player2 tell color G
+player1 played G1
+player2 tell number 3
+player1 discarded B1
+player2 tell color Y
+player1 played Y3
+player2 discarded R5
+player1 tell number 1
+player2 discarded B1
+player1 tell number 2
+player2 played W2
+player1 discarded W5
+player2 tell number 4
+player1 played Y4
+player2 played Y5
+player1 tell color W
+player2 played W3
+player1 discarded Y2
+player2 tell number 2
+player1 played B2
+player2 discarded R4
+player1 tell number 2
+player2 played G2
+player1 played B3
+player2 discarded G3
+player1 tell color G
+player2 played G3
+player1 discarded B3
+player2 tell number 4
+player1 played B4
+player2 discarded R4
+player1 tell number 1
+player2 discarded G1
+player1 tell number 2
+player2 discarded W1
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 4
+player2 discarded R2
+player1 tell number 3
+player2 discarded Y1
+player1 tell color R
+player2 played R3
+player1 discarded G1
+player2 tell number 4
+player1 played W4
+player2 discarded W3
+
+12_18 team_0 time_0
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played Y1
+player1 tell number 5
+player2 discarded W5
+player1 tell number 2
+player2 played Y2
+player1 tell number 1
+player2 played W1
+player1 tell color R
+player2 played R1
+player1 tell number 4
+player2 discarded R5
+player1 tell number 1
+player2 played B1
+player1 tell number 2
+player2 played G2
+player1 discarded W2
+player2 tell color B
+player1 played B2
+player2 tell color G
+player1 played G3
+player2 discarded Y5
+player1 tell number 3
+player2 played B3
+player1 discarded W1
+player2 tell number 2
+player1 played R2
+player2 discarded R4
+player1 tell color B
+player2 played B4
+player1 discarded Y4
+player2 discarded B1
+player1 tell number 4
+player2 played G4
+player1 tell number 1
+player2 discarded G1
+
+12_18 team_14 time_1
+player1 tell number 1
+player2 played B1
+player1 tell number 3
+player2 tell number 1
+player1 played R1
+player2 played R1
+player1 tell number 2
+player2 played B2
+player1 discarded B3
+player2 tell number 3
+player1 played B3
+player2 tell number 2
+player1 tell color G
+player2 discarded G3
+player1 played R2
+player2 tell number 5
+player1 discarded G5
+player2 tell color W
+player1 played W1
+player2 tell number 2
+player1 played W2
+player2 tell number 3
+player1 played W3
+player2 discarded R5
+player1 tell number 1
+player2 played Y1
+player1 discarded W1
+player2 tell number 5
+player1 discarded Y5
+player2 discarded G3
+player1 tell color W
+player2 discarded W3
+player1 tell number 4
+player2 played W4
+player1 tell number 5
+player2 played W5
+player1 tell number 1
+player2 discarded B1
+player1 tell number 2
+player2 played Y2
+player1 discarded B4
+player2 tell color G
+player1 played G1
+player2 discarded G1
+player1 tell color B
+player2 played B4
+player1 discarded R4
+player2 tell number 3
+player1 played R3
+player2 discarded G4
+player1 tell color Y
+player2 played Y3
+player1 discarded B1
+player2 tell color B
+player1 played B5
+player2 discarded R2
+player1 tell number 1
+player2 discarded G1
+player1 played R4
+player2 tell color Y
+player1 played Y4
+player2 discarded W1
+player1 tell number 2
+player2 played G2
+player1 discarded R1
+player2 discarded Y1
+player1 discarded Y4
+player2 discarded R3
+
+12_18 team_14 time_2
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 discarded G4
+player1 discarded B4
+player2 tell color B
+player1 played B1
+player2 discarded B4
+player1 discarded W3
+player2 tell color B
+player1 played B2
+player2 discarded W4
+player1 tell number 3
+player2 played R3
+player1 discarded Y4
+player2 tell color G
+player1 played G2
+player2 tell number 1
+player1 played G1
+player2 discarded Y2
+player1 discarded W1
+player2 tell color W
+player1 discarded B1
+player2 tell number 2
+player1 played W2
+player2 discarded G5
+player1 discarded W2
+player2 tell color R
+player1 played R4
+player2 tell number 1
+player1 discarded G1
+player2 discarded Y2
+player1 played G1
+player2 tell number 3
+player1 discarded Y3
+player2 tell color G
+player1 tell number 3
+player2 played W3
+player1 tell number 4
+player2 played W4
+player1 tell number 5
+player2 played W5
+player1 tell color R
+player2 discarded R1
+player1 tell number 2
+player2 discarded R2
+player1 tell color G
+player2 played G2
+player1 tell color Y
+player2 discarded R1
+player1 played G3
+player2 discarded Y5
+player1 tell number 1
+player2 played Y1
+player1 tell number 5
+player2 played R5
+player1 tell number 1
+player2 discarded B1
+player1 tell color R
+player2 tell color B
+player1 played B3
+player2 tell number 3
+player1 discarded G3
+player2 tell color G
+player1 played G4
+player2 discarded Y4
+player1 discarded B3
+
+12_18 team_14 time_3
+
+12_18 team_14 time_3
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played R1
+player2 tell number 1
+player1 played Y1
+player2 tell number 1
+player1 played B1
+player2 tell number 2
+player1 played Y2
+player2 tell number 5
+player1 tell number 2
+player2 played R2
+player1 discarded G5
+player2 tell color R
+player1 played R3
+player2 discarded B5
+player1 discarded B3
+player2 discarded G3
+player1 discarded Y5
+player2 discarded W3
+player1 tell number 5
+player2 discarded R5
+player1 tell number 3
+player2 played Y3
+player1 tell number 4
+player2 played Y4
+player1 tell color G
+player2 discarded G4
+player1 tell color G
+player2 played G1
+player1 tell number 4
+player2 played R4
+player1 tell number 2
+player2 played W2
+player1 discarded B1
+player2 tell number 2
+player1 played B2
+player2 discarded R1
+player1 tell number 3
+player2 played B3
+player1 discarded Y4
+player2 tell number 1
+player1 discarded B1
+player2 tell color B
+player1 played B4
+player2 discarded Y2
+player1 tell number 2
+player2 played G2
+player1 discarded R4
+player2 tell number 1
+player1 discarded W1
+player2 tell number 2
+player1 discarded R2
+player2 tell number 1
+player1 discarded G1
+player2 discarded G2
+player1 tell number 3
+player2 played W3
+player1 tell number 3
+player2 played G3
+player1 discarded B2
+player2 tell number 4
+player1 played G4
+player2 discarded R1
+player1 tell number 4
+player2 played W4
+player1 played W5
+player2 discarded B4
+
+12_18 team_14 time_4
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 tell color B
+player2 tell color Y
+player1 tell number 2
+player2 discarded R3
+player1 discarded G5
+player2 tell number 1
+player1 played B1
+player2 tell color B
+player1 played B3
+player2 discarded W5
+player1 tell number 4
+player2 discarded W2
+player1 discarded Y2
+player2 tell number 1
+player1 played B1
+player2 discarded G2
+player1 tell number 1
+player2 played Y1
+player1 tell color Y
+player2 played Y2
+player1 tell number 1
+player2 discarded R4
+
+12_18 team_14 time_1
+player1 tell color R
+player2 played G1
+player1 played Y3
+player2 played R1
+player1 discarded Y5
+player2 tell number 1
+player1 discarded R1
+player2 tell color W
+player1 played W1
+player2 discarded Y3
+player1 tell number 2
+player2 discarded W1
+player1 tell color B
+player2 played G2
+player1 discarded Y1
+player2 played R2
+player1 tell number 4
+player2 played B4
+player1 discarded R4
+player2 played B5
+player1 tell number 4
+player2 tell number 3
+player1 played G3
+player2 discarded G3
+player1 tell color Y
+player2 played Y4
+player1 discarded W4
+player2 tell color G
+player1 played G4
+player2 discarded B3
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded R1
+player1 discarded Y4
+player2 tell color R
+player1 played R3
+player2 discarded W4
+player1 tell color W
+player2 played W2
+
+12_18_15_02 team_0 time_0
+
+12_18_15_03 team_0 time_0
+
+12_18_15_03 team_0 time_0
+
+12_18 team_0 time_0
+
+12_18 team_0 time_0
+
+12_18 team_15 time_1
+
+12_18 team_0 time_4
+
+12_18 team_0 time_0
+
+12_20 team_0 time_0
+
+12_20 team_0 time_4
+
+12_20 team_0 time_0
+
+12_20 team_15 time_1
+
+12_20 team_0 time_0
+player1 tell color R
+player2 tell number 1
+player1 played W1
+player2 tell number 2
+player1 tell number 1
+player2 played R1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 tell number 1
+player1 played B1
+player2 discarded W1
+player1 played G2
+player2 tell number 5
+player1 discarded G5
+player2 discarded B4
+player1 tell color B
+player2 played B2
+player1 tell number 1
+player2 played G1
+player1 tell color R
+player2 played R3
+player1 played Y2
+player2 discarded G4
+player1 discarded B4
+player2 tell number 2
+player1 played W2
+player2 tell number 1
+player1 played B1
+
+12_20 team_15 time_4
+player1 tell number 1
+player2 played B1
+player1 tell color R
+player2 played R1
+player1 tell number 3
+player2 tell color R
+player1 played R1
+player2 tell number 2
+player1 tell color G
+player2 tell color B
+player1 played B2
+player2 tell number 3
+player1 played B3
+player2 discarded R5
+player1 tell number 3
+player2 discarded B1
+player1 discarded G4
+player2 tell number 1
+player1 played W1
+player2 tell color W
+player1 played W2
+player2 discarded W3
+player1 discarded R2
+player2 tell number 3
+player1 played W3
+player2 tell number 1
+player1 played Y1
+player2 discarded B3
+player1 tell number 4
+player2 played B4
+player1 discarded R4
+player2 tell color W
+player1 played W4
+player2 discarded W5
+player1 tell number 5
+player2 played B5
+player1 tell number 3
+player2 discarded W1
+player1 tell color Y
+player2 played Y2
+player1 discarded Y5
+player2 tell number 1
+player1 discarded R4
+player2 tell color G
+player1 played G1
+player2 discarded B4
+player1 discarded G1
+player2 tell number 2
+player1 played R2
+player2 tell number 2
+player1 played G2
+player2 played G3
+player1 discarded R3
+player2 tell number 3
+player1 played Y3
+player2 discarded G3
+player1 tell number 1
+player2 discarded G1
+player1 tell number 1
+player2 discarded Y1
+player1 tell number 4
+player2 played Y4
+player1 discarded R1
+player2 tell number 4
+player1 discarded W2
+player2 tell color G
+player1 played G4
+player2 discarded B1
+player1 played G5
+player2 discarded Y1
+
+12_20 team_15 time_3
+
+12_20 team_15 time_2
+player1 tell number 5
+player2 tell number 1
+player1 played W1
+player2 tell number 1
+player1 played R1
+player2 tell color Y
+player1 played Y1
+player2 tell color Y
+player1 played Y2
+player2 tell number 3
+player1 tell number 2
+player2 played R2
+player1 played B3
+player2 tell number 3
+player1 played R3
+player2 discarded G3
+player1 played B1
+player2 discarded G4
+player1 discarded G4
+player2 tell number 5
+player1 discarded R5
+player2 discarded W3
+player1 tell color G
+player2 discarded Y4
+player1 tell number 1
+player2 played G1
+player1 tell number 3
+player2 played Y3
+player1 tell number 1
+player2 tell number 4
+player1 played Y4
+player2 discarded B1
+player1 tell number 4
+player2 played R4
+player1 played Y5
+player2 tell number 2
+player1 played W2
+player2 discarded R1
+player1 discarded B1
+player2 tell color R
+player1 discarded R1
+player2 tell number 2
+player1 played G2
+player2 tell color B
+player1 played B2
+player2 discarded Y2
+player1 tell number 3
+player2 played G3
+player1 played B3
+player2 discarded R4
+player1 tell number 2
+player2 discarded G2
+player1 played B4
+player2 tell number 3
+player1 played W3
+player2 played B5
+player1 tell number 2
+player2 discarded B2
+player1 discarded G1
+player2 tell number 4
+player1 played W4
+player2 tell number 5
+player1 played W5
+player2 discarded Y1
+player1 discarded R3
+player2 discarded Y3
+player1 discarded W4
+
+12_20 team_15 time_3
+player1 tell number 1
+player2 played B1
+player1 tell number 5
+player2 tell color B
+player1 played B2
+player2 tell number 5
+player1 tell number 2
+player2 discarded Y2
+player1 tell color W
+player2 discarded W2
+player1 discarded Y2
+player2 tell number 3
+player1 played B3
+player2 tell number 3
+player1 tell number 4
+player2 played R4
+player1 discarded B1
+player2 tell number 2
+player1 discarded G2
+player2 discarded Y5
+player1 tell number 4
+player2 discarded R3
+player1 tell number 1
+player2 played Y1
+player1 tell number 1
+player2 played G1
+player1 tell number 1
+player2 played R1
+player1 tell number 3
+player2 discarded Y3
+player1 tell number 2
+player2 played R2
+player1 played B1
+player2 discarded R1
+player1 tell number 1
+player2 played W1
+player1 discarded G5
+player2 tell number 1
+player1 discarded W1
+player2 tell number 2
+player1 played G2
+player2 discarded Y1
+player1 tell number 3
+player2 played G3
+player1 discarded W4
+player2 tell number 4
+player1 played B4
+player2 discarded Y1
+player1 tell number 5
+player2 played B5
+player1 tell number 4
+player2 played G4
+player1 discarded Y3
+player2 tell color B
+player1 discarded B4
+player2 tell color R
+player1 played R4
+
+12_20 team_15 time_1
+player1 tell number 1
+player2 played R1
+player1 tell color W
+player2 played W1
+player1 tell number 4
+player2 tell color R
+player1 played R2
+player2 tell color B
+player1 played B4
+player2 discarded Y2
+player1 tell color Y
+player2 played Y2
+player1 discarded B1
+player2 discarded W3
+player1 discarded W1
+player2 tell color G
+player1 tell color G
+player2 tell number 1
+player1 played G1
+player2 tell number 2
+player1 played G2
+player2 tell color R
+player1 discarded R1
+player2 tell number 3
+player1 played R3
+player2 tell color G
+player1 discarded R1
+player2 tell number 3
+player1 played G3
+player2 played G4
+player1 played G5
+player2 tell number 2
+player1 played W2
+player2 discarded B2
+player1 discarded B1
+player2 tell color R
+player1 played R4
+player2 tell color G
+player1 discarded G1
+player2 discarded Y5
+player1 tell number 3
+player2 played W3
+player1 discarded W5
+player2 discarded Y3
+player1 discarded G1
+player2 tell color G
+player1 discarded G3
+player2 tell color R
+player1 discarded G2
+player2 played W4
+player1 tell number 1
+player2 played B1
+player1 tell number 1
+player2 played Y1
+player1 tell color R
+player2 played R5
+player1 tell number 4
+player2 tell color R
+player1 discarded R2
+player2 tell color Y
+player1 discarded R4
+player2 tell number 1
+player1 discarded Y1
+player2 tell number 3
+player1 discarded R3
+player2 tell number 1
+player1 discarded W1
+player2 discarded W4
+player1 played B5

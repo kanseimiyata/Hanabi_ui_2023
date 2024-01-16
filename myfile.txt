@@ -1,0 +1,17 @@
+aaYplayer1 discarded Y3
+player1 discarded R3
+player1 discarded Y2
+playerplayerplayer1 discarded player1 discarded Y2
+player1 discarded Y2
+player2 discarded R3
+player1 discarded W3
+player1 tell color 1
+player2 played B1
+player1 tell color W
+player2 discarded W5
+player1 tell color B
+player2 tell color 2
+player1 played B2
+player2 discarded B1
+player1 tell color Y
+player2 tell color Y

@@ -1,0 +1,22 @@
+＜使用方法＞
+エディタはvscodeを使用して、Anacondaと結び付けて使用していました。
+事前に、pipでwebsocketserverをインストールしてください。（そのほか、uninstall errorが出る毎にエラーが出たモジュールをpipでインストールしてください）
+基本的には、Anaconda Promptで$python expe.pyを実行し、htmlファイルを開くorリロードすることで使用できると思います。
+normal、difficult、orderのhtmlファイルは2つ立ち上げ、その2つで協力プレイすることができます。
+agentのhtmlファイルについては、1つだけ立ち上げ、AIエージェントと協力プレイすることができます。
+また、プレイログを保存する用の「csv」フォルダを作成してください。
+
+＜動作方法＞
+AnacondaPromptでpython expe.pyを実行
+
+数字を適当に入れる（seedは乱数、回数はnormal、difficult等に対応）
+
+client_*_*.htmlを開くorリロード（AIエージェントでないなら1と2を開くorリロード）
+
+
+＜編集おすすめ箇所＞
+基本的に改良する際に変更するコードは、expe.py、*.html、*.js、Miyata_Agent.pyを変更します。
+
+expe.py、*.html、*.jsは、webシステムにルールや機能を追加したいときに編集してください。
+
+Miyata_Agent.pyは、AIの戦法を変更したいときに使用してください。

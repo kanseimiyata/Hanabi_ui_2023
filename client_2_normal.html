@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html>
+<head>
+  <title>Player_2_normal</title>
+  <link
+    rel = "stylesheet"
+    type = "text/css"
+    href = "style.css"
+  />
+
+  
+</head>
+<body onload="init();">
+  <!--<div id="log"></div>-->
+  <table style="margin-top: 40px; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td>
+        <table border="1" style = "margin-left: 0px; margin-right: 10px;">
+            <tr>
+              <td colspan="5">
+                ボード
+              </td>
+            </tr>
+            <tr height = "150">
+              <td width = "120" >
+                <p id = "fw_W"> <img src="pict/W0.png" width = "120" height = "150"> </p>
+              </td>
+              <td>
+                <p id = "fw_R"> <img src="pict/R0.png" width = "120" height = "150"> </p>
+              </td>
+              <td>
+                <p id = "fw_B"> <img src="pict/B0.png" width = "120" height = "150"> </p>
+              </td>
+              <td>
+                <p id = "fw_Y"> <img src="pict/Y0.png" width = "120" height = "150"> </p>
+              </td>
+              <td>
+                <p id = "fw_G"> <img src="pict/G0.png" width = "120" height = "150"> </p>
+              </td>
+            </tr>
+            <tr style = "height: 168px;">
+                <td colspan="3">
+                  <table style = "width: 385px; height: 168px; text-align: center;" border="1" >
+                    <tr>
+                      <td colspan="5">捨てられた　または　プレイされたカード</td>
+                    </tr>
+                    <tr style="height: 20px; ">
+                      <td style = "width: 74px;"><p style="margin: 0px;height: 20px;"><b>1</b>×3枚</p></td>
+                      <td style = "width: 74px;"><p style="margin: 0px;height: 20px;"><b>2</b>×2枚</p></td>
+                      <td style = "width: 74px;"><p style="margin: 0px;height: 20px;"><b>3</b>×2枚</p></td>
+                      <td style = "width: 74px;"><p style="margin: 0px;height: 20px;"><b>4</b>×2枚</p></td>
+                      <td style = "width: 74px;"><p style="margin: 0px;height: 20px;"><b>5</b>×1枚</p></td>
+                    </tr>
+                    <tr style="height: 25px; ">
+                      <td style = "width: 74px;"><p id = discard_W1 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_W2 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_W3 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_W4 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_W5 style="margin: 0px;height: 25px;"></p></td>
+                    </tr>
+                    <tr style="height: 25px;">
+                      <td style = "width: 74px;"><p id = discard_R1 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_R2 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_R3 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_R4 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_R5 style="margin: 0px;height: 25px;"></p></td>
+                    </tr>
+                    <tr style="height: 25px;">
+                      <td style = "width: 74px;"><p id = discard_B1 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_B2 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_B3 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_B4 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_B5 style="margin: 0px;height: 25px;"></p></td>
+                    </tr>
+                    <tr style="height: 25px;">
+                      <td style = "width: 74px;"><p id = discard_Y1 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_Y2 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_Y3 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_Y4 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_Y5 style="margin: 0px;height: 25px;"></p></td>
+                    </tr>
+                    <tr style="height: 25px;">
+                      <td style = "width: 74px;"><p id = discard_G1 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_G2 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_G3 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_G4 style="margin: 0px;height: 25px;"></p></td>
+                      <td style = "width: 74px;"><p id = discard_G5 style="margin: 0px;height: 25px;"></p></td>
+                    </tr>
+                  </table>
+                </td>
+                <td colspan="2">
+                  <table style = "width: 248px; height: 168px;" border="1">
+                    <tr><td style = "height: 24px;">トークン</td></tr>
+                    <tr>
+                      <td style = "height: 70px;">
+                      <p id = "blue_token" style="margin: 2px;"></p>
+                      <p id = "red_token" style="margin: 2px;"></p>
+                      </td>
+                    </tr>
+                    <tr><td  style = "height: 24px;">残りのデッキ枚数（山札）</td></tr>
+                    <tr>
+                      <td style = " height: 55px;">
+                      <p id = "decks" style="text-align: center;; margin: 2px; "></p>
+                     </td>
+                    </tr>
+                  </table>
+                </td>
+            </tr>
+            <tr>
+              <td colspan="5" style = "height: 200px;">
+                <div style = "width:620px; height:200px; overflow-y:scroll;">
+                  <p id = "game_log">プレイログ....<br></p>
+                </div>
+              </td>
+            </tr>
+        </table>
+      </td>
+      <td>
+        <table border="1" style = "margin-left: 10px; margin-right: 0px;">
+            <tr>
+              <td nowrap>相手<span id = "P1_turn"><font color = "orangered"> <- TURN </font></span></td>
+              <td colspan="5">相手の手札</td><!-- change_2 -->
+            </tr>
+            <tr>
+              <td align="center"><span id = "P2_turn3"><img src="pict/agentnayamu2.gif" width = "150" height = "150"></span></td><!-- change_2 -->
+              <td rowspan="2" align="center" width = "120" ><!-- change_2 -->
+                <p id =P1_1_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P1_1"><img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P1b_1></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P1_2_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P1_2"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P1b_2></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P1_3_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P1_3"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P1b_3></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P1_4_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P1_4"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P1b_4></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P1_5_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P1_5"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P1b_5></p>
+              </td>
+            </tr>
+            <tr>
+            <td align="center" height = "40"><span id = "P2_turn2"></span></td><!-- change_2 -->
+            </tr>
+            <tr>
+              <td nowrap>あなた<span id = "P2_turn"></span></td><!-- change_2 -->
+              <td colspan="5">あなたの手札</td><!-- change_2 -->
+
+            </tr>
+            <tr>
+              <td align="center"><span id = "P1_turn3"><img src="pict/playericon.png" width = "150" height = "150"></span></td><!-- change_2 -->
+              <td rowspan="2" align="center" width = "120" ><!-- change_2 -->
+                <p id =P2_1_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P2_1">
+                  <img src="pict/Hanabi_default.png" width = "120" height = "150">
+                </p>
+                <p id = P2b_1></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P2_2_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P2_2"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P2b_2></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P2_3_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P2_3"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P2b_3></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P2_4_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P2_4"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>
+                <p id = P2b_4></p>
+              </td>
+              <td rowspan="2" align="center" width = "120"><!-- change_2 -->
+                <p id =P2_5_PO>
+                  1 2 3 4 5 <br>W R B Y G <br>
+                </p>
+                <p id = "P2_5"> <img src="pict/Hanabi_default.png" width = "120" height = "150"> </p>    
+                <p id = P2b_5></p>
+              </td>    
+            </tr>
+            <td align="center" height = "40"><span id = "P1_turn2"></span></td><!-- change_2 -->
+        </table>
+      </td>
+    </tr>
+  </table><!--
+  --><div class = "overlay"><!--
+  --><span style = "position: absolute;" id = "moving_card"></span><!--
+  --></div>
+  <script type="text/javascript" src="gen_board_2_normal.js">
+  </script>
+</body>
+
+</html>

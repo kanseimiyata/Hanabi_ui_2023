@@ -1,0 +1,25 @@
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 10 1 yobi1-1
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 20 0 yobi1-2
+
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 20 0 yobi2-1
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 10 1 yobi2-2
+
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 20 1 yobi3-1
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 10 0 yobi3-2
+
+
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 10 0 yobi4-1
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 20 1 yobi4-2
+
+
+test—p
+python C:\Users\hailab\Desktop\2020—\”õÀŒ±\sample_server.py 5 0 test
+
+
+Šï”l–ÚA
+1‰ñ–Ú@C:\Users\hailab\Downloads\reHANABI\HanabiServerV3\x64\Release\HanabiServerV3.exe 1  1 200 33 3 1 11000 1 test
+2‰ñ–Ú  C:\Users\hailab\Downloads\reHANABI\HanabiServerV3\x64\Release\HanabiServerV3.exe 1  1 200 33 6 1 11000 0 test
+
+‹ô”l–ÚB
+1‰ñ–Ú  C:\Users\hailab\Downloads\reHANABI\HanabiServerV3\x64\Release\HanabiServerV3.exe 1  1 200 33 3 1 11000 0 test
+2‰ñ–Ú  C:\Users\hailab\Downloads\reHANABI\HanabiServerV3\x64\Release\HanabiServerV3.exe 1  1 200 33 6 1 11000 1 test

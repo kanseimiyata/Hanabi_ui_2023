@@ -1,0 +1,58 @@
+.center{
+    text-align: center;
+}
+
+table{
+    height: 680px;
+    width : 650px;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    pointer-events: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: yellow;
+    color: #111111;
+    border-bottom: solid 5px gray;
+    border-radius: 4px;
+}
+.btn:active {
+    -webkit-transform: translateY(5px);
+    transform: translateY(5px);
+    border-bottom: none;
+}
+
+/* 吹き出し本体 */
+.balloon {
+    position: relative;
+    display: inline-block;
+    margin: 1.5em 0;
+    padding: 7px 10px;
+    min-width: 120px;
+    max-width: 100%;
+    color: #090909;
+    font-size: 18px;
+    background: #ccf30a;
+    border-radius: 15px;
+}
+  
+.balloon:before {
+    content: "";
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    margin-left: -15px;
+    border: 15px solid transparent;
+    border-bottom: 15px solid #ccf30a;
+}
+  
+.balloon p {
+    margin: 0;
+    padding: 0;
+}
